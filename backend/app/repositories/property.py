@@ -1,6 +1,8 @@
+from __future__ import annotations
+
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import select, func, and_
-from geoalchemy2.functions import ST_DWithin, ST_Point
+from sqlalchemy import func, select
+from geoalchemy2.functions import ST_DWithin
 
 from app.models.property import Property
 from app.schemas.property import PropertyCreate
@@ -14,7 +16,11 @@ class PropertyRepository:
 
     async def create(self, property_data: PropertyCreate) -> Property:
         """Create a new property."""
-        location = f"POINT({property_data.longitude} {property_data.latitude})"
+        location = (
+            f"POINT({property_data.longitude} {property_data.latitude})"
+            if property_data.longitude is not None and property_data.latitude is not None
+            else None
+        )
 
         property_obj = Property(
             source=property_data.source,

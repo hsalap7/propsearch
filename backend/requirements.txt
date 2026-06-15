@@ -10,5 +10,9 @@ python-dotenv==1.0.0
 pytest==7.4.3
 pytest-asyncio==0.21.1
 httpx==0.25.2
+asyncpg==0.29.0
+aiosqlite==0.19.0
+playwright==1.44.0
+apscheduler==3.10.4
 ruff==0.1.8
 black==23.12.0

@@ -1,7 +1,7 @@
 from datetime import datetime
 from typing import Optional
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 
 
 class PropertyImageSchema(BaseModel):
@@ -23,13 +23,13 @@ class PropertyBase(BaseModel):
     price: int
     price_per_sqft: Optional[float] = None
     area_sqft: int
-    bedrooms: int
+    bedrooms: Optional[int] = None
     bathrooms: Optional[int] = None
     address: str
     locality: str
     city: str = "Bangalore"
-    latitude: float
-    longitude: float
+    latitude: Optional[float] = None
+    longitude: Optional[float] = None
     listing_url: str
     image_urls: Optional[list[PropertyImageSchema]] = None
     amenities: Optional[list[PropertyAmenitySchema]] = None
@@ -54,6 +54,7 @@ class PropertyResponse(PropertyBase):
     id: str
     created_at: datetime
     updated_at: datetime
+    last_seen_at: datetime
 
     class Config:
         from_attributes = True

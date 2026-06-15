@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.health import router as health_router
 from app.api.properties import router as properties_router
+from app.api.admin import router as admin_router
 from app.core.config import settings
 from app.core.dependencies import init_db_engine
 
@@ -28,6 +29,7 @@ def create_app() -> FastAPI:
     # Include routers
     app.include_router(health_router)
     app.include_router(properties_router)
+    app.include_router(admin_router)
 
     # Startup event
     @app.on_event("startup")

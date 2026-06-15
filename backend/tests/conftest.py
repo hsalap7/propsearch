@@ -1,4 +1,5 @@
 import pytest
+import pytest_asyncio
 from httpx import AsyncClient
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.orm import sessionmaker
@@ -16,7 +17,7 @@ def event_loop():
     loop.close()
 
 
-@pytest.fixture
+@pytest_asyncio.fixture
 async def test_db():
     """Create test database."""
     engine = create_async_engine("sqlite+aiosqlite:///:memory:")
@@ -26,7 +27,7 @@ async def test_db():
     await engine.dispose()
 
 
-@pytest.fixture
+@pytest_asyncio.fixture
 async def test_session(test_db):
     """Create test session."""
     async_session = sessionmaker(test_db, class_=AsyncSession, expire_on_commit=False)
@@ -34,7 +35,7 @@ async def test_session(test_db):
         yield session
 
 
-@pytest.fixture
+@pytest_asyncio.fixture
 async def client(test_db):
     """Create test client."""
     app = create_app()

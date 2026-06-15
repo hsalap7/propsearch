@@ -7,6 +7,8 @@ Base = declarative_base()
 
 async def init_db(database_url: str):
     """Initialize database engine and create tables."""
+    import app.models  # noqa: F401
+
     engine = create_async_engine(
         database_url,
         echo=False,
