@@ -35,6 +35,20 @@ class RawListing(Base):
     )
 
 
+class RawPayload(Base):
+    __tablename__ = "raw_payloads"
+
+    id: Mapped[str] = mapped_column(
+        String(36), primary_key=True, default=lambda: str(uuid4())
+    )
+    source: Mapped[str] = mapped_column(String(50), nullable=False, index=True)
+    endpoint: Mapped[str] = mapped_column(String(1024), nullable=False)
+    payload_json: Mapped[dict] = mapped_column(JSON_TYPE, nullable=False)
+    captured_at: Mapped[datetime] = mapped_column(
+        TIMESTAMP, nullable=False, server_default=func.now(), index=True
+    )
+
+
 class PropertyDuplicate(Base):
     __tablename__ = "property_duplicates"
     __table_args__ = (

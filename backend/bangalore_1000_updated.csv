@@ -1,0 +1,1001 @@
+id,title,property_type,price,area_sqft,bedrooms,address,locality,city,latitude,longitude
+prop_1,3 BHK Apartment in HSR Layout,apartment,8960720,1109,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.926111,77.649886
+prop_2,4 BHK Apartment in Sarjapur,apartment,10602468,1524,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.935656,77.682599
+prop_3,3 BHK Apartment in Electronic City,apartment,6101394,1074,3,"Random Street, Electronic City",Electronic City,Bangalore,12.832453,77.658656
+prop_4,4 BHK Apartment in Bellandur,apartment,13338420,1697,4,"Random Street, Bellandur",Bellandur,Bangalore,12.916454,77.690039
+prop_5,3 BHK Apartment in Marathahalli,apartment,8390055,1245,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.961924,77.706614
+prop_6,2 BHK Apartment in Koramangala,apartment,9030809,929,2,"Random Street, Koramangala",Koramangala,Bangalore,12.929066,77.621117
+prop_7,3 BHK Apartment in Indiranagar,apartment,13423924,1237,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960787,77.627517
+prop_8,2 BHK Apartment in Jayanagar,apartment,7705620,962,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.943592,77.580053
+prop_9,3 BHK Apartment in Bellandur,apartment,10694008,1391,3,"Random Street, Bellandur",Bellandur,Bangalore,12.944128,77.686376
+prop_10,4 BHK Apartment in Bellandur,apartment,10014340,1535,4,"Random Street, Bellandur",Bellandur,Bangalore,12.923076,77.671253
+prop_11,3 BHK Apartment in Bellandur,apartment,10272220,1228,3,"Random Street, Bellandur",Bellandur,Bangalore,12.939479,77.671633
+prop_12,3 BHK Apartment in Sarjapur,apartment,8634654,1113,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.928315,77.672251
+prop_13,3 BHK Apartment in Marathahalli,apartment,9592432,1322,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.94756,77.69417
+prop_14,2 BHK Apartment in Electronic City,apartment,4787210,983,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839281,77.667489
+prop_15,4 BHK Apartment in Bellandur,apartment,8758400,1400,4,"Random Street, Bellandur",Bellandur,Bangalore,12.934167,77.663691
+prop_16,2 BHK Apartment in Electronic City,apartment,5007576,861,2,"Random Street, Electronic City",Electronic City,Bangalore,12.851788,77.649246
+prop_17,3 BHK Apartment in Jayanagar,apartment,9715104,1106,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.938179,77.595116
+prop_18,3 BHK Apartment in Whitefield,apartment,8293152,1176,3,"Random Street, Whitefield",Whitefield,Bangalore,12.958419,77.737285
+prop_19,4 BHK Apartment in HSR Layout,apartment,9898944,1419,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.909898,77.63498
+prop_20,3 BHK Apartment in Sarjapur,apartment,9691024,1316,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.921664,77.679601
+prop_21,4 BHK Apartment in Sarjapur,apartment,11438922,1578,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.934955,77.666779
+prop_22,2 BHK Apartment in Marathahalli,apartment,5909036,883,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.963988,77.714963
+prop_23,4 BHK Apartment in Bellandur,apartment,11319750,1677,4,"Random Street, Bellandur",Bellandur,Bangalore,12.935864,77.687063
+prop_24,4 BHK Apartment in Bellandur,apartment,9813398,1498,4,"Random Street, Bellandur",Bellandur,Bangalore,12.931074,77.675807
+prop_25,3 BHK Apartment in Whitefield,apartment,9378824,1352,3,"Random Street, Whitefield",Whitefield,Bangalore,12.956718,77.735574
+prop_26,3 BHK Apartment in Electronic City,apartment,7121484,1348,3,"Random Street, Electronic City",Electronic City,Bangalore,12.831858,77.667419
+prop_27,3 BHK Apartment in Jayanagar,apartment,9944691,1033,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.944677,77.577492
+prop_28,4 BHK Apartment in Hebbal,apartment,11620191,1419,4,"Random Street, Hebbal",Hebbal,Bangalore,13.022607,77.594809
+prop_29,3 BHK Apartment in Marathahalli,apartment,6906679,1079,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.957852,77.696978
+prop_30,3 BHK Apartment in Sarjapur,apartment,8326800,1285,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.936378,77.683893
+prop_31,3 BHK Apartment in Bellandur,apartment,10382580,1377,3,"Random Street, Bellandur",Bellandur,Bangalore,12.923137,77.68712
+prop_32,3 BHK Apartment in Bellandur,apartment,9447184,1384,3,"Random Street, Bellandur",Bellandur,Bangalore,12.936796,77.673343
+prop_33,3 BHK Apartment in Indiranagar,apartment,12180596,1172,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.957803,77.647753
+prop_34,3 BHK Apartment in Marathahalli,apartment,9155751,1353,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.948447,77.708177
+prop_35,2 BHK Apartment in Electronic City,apartment,3304815,795,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839131,77.663884
+prop_36,3 BHK Apartment in HSR Layout,apartment,9366750,1125,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.916229,77.658006
+prop_37,2 BHK Apartment in Indiranagar,apartment,9498750,894,2,"Random Street, Indiranagar",Indiranagar,Bangalore,12.976159,77.629154
+prop_38,3 BHK Apartment in Koramangala,apartment,11861070,1326,3,"Random Street, Koramangala",Koramangala,Bangalore,12.940267,77.636692
+prop_39,4 BHK Apartment in Marathahalli,apartment,10196932,1486,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.958192,77.703301
+prop_40,3 BHK Apartment in Marathahalli,apartment,7625772,1386,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.956762,77.714118
+prop_41,2 BHK Apartment in Electronic City,apartment,5604732,967,2,"Random Street, Electronic City",Electronic City,Bangalore,12.846707,77.645239
+prop_42,3 BHK Apartment in Marathahalli,apartment,5504760,1080,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.968719,77.702566
+prop_43,4 BHK Apartment in Koramangala,apartment,14915440,1480,4,"Random Street, Koramangala",Koramangala,Bangalore,12.948332,77.622499
+prop_44,4 BHK Apartment in Hebbal,apartment,11713912,1624,4,"Random Street, Hebbal",Hebbal,Bangalore,13.039069,77.597174
+prop_45,4 BHK Apartment in Jayanagar,apartment,13320808,1412,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.942173,77.588419
+prop_46,3 BHK Apartment in Hebbal,apartment,9869820,1214,3,"Random Street, Hebbal",Hebbal,Bangalore,13.037456,77.597835
+prop_47,4 BHK Apartment in Marathahalli,apartment,10956432,1479,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.967892,77.713109
+prop_48,3 BHK Apartment in Whitefield,apartment,9176958,1263,3,"Random Street, Whitefield",Whitefield,Bangalore,12.958171,77.740659
+prop_49,3 BHK Apartment in Electronic City,apartment,6624909,1233,3,"Random Street, Electronic City",Electronic City,Bangalore,12.83165,77.667392
+prop_50,3 BHK Apartment in HSR Layout,apartment,7730104,1006,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.899329,77.632823
+prop_51,3 BHK Apartment in Koramangala,apartment,10678978,1151,3,"Random Street, Koramangala",Koramangala,Bangalore,12.930114,77.612302
+prop_52,3 BHK Apartment in Hebbal,apartment,10472280,1176,3,"Random Street, Hebbal",Hebbal,Bangalore,13.045708,77.604345
+prop_53,4 BHK Apartment in Hebbal,apartment,12814470,1531,4,"Random Street, Hebbal",Hebbal,Bangalore,13.033599,77.603236
+prop_54,3 BHK Apartment in Bellandur,apartment,10887472,1388,3,"Random Street, Bellandur",Bellandur,Bangalore,12.944783,77.667252
+prop_55,3 BHK Apartment in Bellandur,apartment,9990036,1367,3,"Random Street, Bellandur",Bellandur,Bangalore,12.929595,77.679532
+prop_56,3 BHK Apartment in Koramangala,apartment,12005333,1189,3,"Random Street, Koramangala",Koramangala,Bangalore,12.944886,77.627701
+prop_57,4 BHK Apartment in Hebbal,apartment,11987856,1494,4,"Random Street, Hebbal",Hebbal,Bangalore,13.031137,77.59521
+prop_58,3 BHK Apartment in Koramangala,apartment,9895632,1086,3,"Random Street, Koramangala",Koramangala,Bangalore,12.925106,77.609573
+prop_59,2 BHK Apartment in Electronic City,apartment,4849368,762,2,"Random Street, Electronic City",Electronic City,Bangalore,12.856008,77.646186
+prop_60,2 BHK Apartment in Electronic City,apartment,5474736,874,2,"Random Street, Electronic City",Electronic City,Bangalore,12.849293,77.672615
+prop_61,3 BHK Apartment in Bellandur,apartment,9293501,1253,3,"Random Street, Bellandur",Bellandur,Bangalore,12.940894,77.666585
+prop_62,3 BHK Apartment in Indiranagar,apartment,13549296,1286,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.979815,77.626883
+prop_63,3 BHK Apartment in Marathahalli,apartment,8293596,1158,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.942783,77.711347
+prop_64,3 BHK Apartment in Koramangala,apartment,9705848,1016,3,"Random Street, Koramangala",Koramangala,Bangalore,12.943733,77.614214
+prop_65,4 BHK Apartment in Sarjapur,apartment,9020540,1462,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.908252,77.660998
+prop_66,4 BHK Apartment in Hebbal,apartment,12887152,1528,4,"Random Street, Hebbal",Hebbal,Bangalore,13.037805,77.60811
+prop_67,3 BHK Apartment in Bellandur,apartment,10520692,1274,3,"Random Street, Bellandur",Bellandur,Bangalore,12.944415,77.681215
+prop_68,3 BHK Apartment in Bellandur,apartment,8831428,1102,3,"Random Street, Bellandur",Bellandur,Bangalore,12.920881,77.674575
+prop_69,3 BHK Apartment in Koramangala,apartment,11488000,1280,3,"Random Street, Koramangala",Koramangala,Bangalore,12.93041,77.637053
+prop_70,3 BHK Apartment in HSR Layout,apartment,9543816,1098,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.922507,77.640972
+prop_71,3 BHK Apartment in Sarjapur,apartment,7660374,1186,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.925252,77.667282
+prop_72,4 BHK Apartment in Indiranagar,apartment,15638656,1532,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.97618,77.62896
+prop_73,4 BHK Apartment in Bellandur,apartment,9835122,1426,4,"Random Street, Bellandur",Bellandur,Bangalore,12.925772,77.686688
+prop_74,3 BHK Apartment in Koramangala,apartment,11778453,1359,3,"Random Street, Koramangala",Koramangala,Bangalore,12.927588,77.614105
+prop_75,3 BHK Apartment in Electronic City,apartment,5858928,1044,3,"Random Street, Electronic City",Electronic City,Bangalore,12.833351,77.646467
+prop_76,3 BHK Apartment in Indiranagar,apartment,10990058,1054,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.961308,77.643037
+prop_77,3 BHK Apartment in Bellandur,apartment,8290530,1101,3,"Random Street, Bellandur",Bellandur,Bangalore,12.942295,77.692612
+prop_78,3 BHK Apartment in Sarjapur,apartment,8952768,1256,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.916839,77.664617
+prop_79,2 BHK Apartment in HSR Layout,apartment,8419395,983,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.913287,77.647519
+prop_80,3 BHK Apartment in HSR Layout,apartment,10220452,1364,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.919996,77.631036
+prop_81,4 BHK Apartment in HSR Layout,apartment,10340610,1435,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.92221,77.648438
+prop_82,3 BHK Apartment in Marathahalli,apartment,8433312,1284,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.967033,77.703229
+prop_83,2 BHK Apartment in Electronic City,apartment,6325062,982,2,"Random Street, Electronic City",Electronic City,Bangalore,12.830263,77.658943
+prop_84,3 BHK Apartment in Electronic City,apartment,6081642,1038,3,"Random Street, Electronic City",Electronic City,Bangalore,12.855713,77.672739
+prop_85,4 BHK Apartment in Indiranagar,apartment,15588612,1404,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.975722,77.638349
+prop_86,3 BHK Apartment in Marathahalli,apartment,9477192,1324,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.958966,77.70391
+prop_87,3 BHK Apartment in HSR Layout,apartment,11839446,1377,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.904457,77.657836
+prop_88,3 BHK Apartment in Bellandur,apartment,8437085,1229,3,"Random Street, Bellandur",Bellandur,Bangalore,12.932535,77.693271
+prop_89,3 BHK Apartment in Marathahalli,apartment,7082009,1177,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.958675,77.688719
+prop_90,4 BHK Apartment in Whitefield,apartment,10970944,1517,4,"Random Street, Whitefield",Whitefield,Bangalore,12.957395,77.760303
+prop_91,3 BHK Apartment in Hebbal,apartment,11225704,1372,3,"Random Street, Hebbal",Hebbal,Bangalore,13.024245,77.610492
+prop_92,3 BHK Apartment in Hebbal,apartment,10275495,1335,3,"Random Street, Hebbal",Hebbal,Bangalore,13.029737,77.600666
+prop_93,3 BHK Apartment in Hebbal,apartment,10054429,1309,3,"Random Street, Hebbal",Hebbal,Bangalore,13.031641,77.612756
+prop_94,4 BHK Apartment in Indiranagar,apartment,17078595,1515,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.972305,77.646054
+prop_95,3 BHK Apartment in Jayanagar,apartment,11498760,1215,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.920941,77.579389
+prop_96,3 BHK Apartment in Bellandur,apartment,10033578,1278,3,"Random Street, Bellandur",Bellandur,Bangalore,12.932923,77.67326
+prop_97,4 BHK Apartment in Sarjapur,apartment,11204638,1466,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.917267,77.662872
+prop_98,3 BHK Apartment in Indiranagar,apartment,14170650,1290,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.980379,77.647048
+prop_99,3 BHK Apartment in Whitefield,apartment,8591805,1395,3,"Random Street, Whitefield",Whitefield,Bangalore,12.958572,77.760099
+prop_100,3 BHK Apartment in Electronic City,apartment,6117112,1112,3,"Random Street, Electronic City",Electronic City,Bangalore,12.858103,77.662803
+prop_101,3 BHK Apartment in Electronic City,apartment,5066762,1058,3,"Random Street, Electronic City",Electronic City,Bangalore,12.844595,77.674616
+prop_102,3 BHK Apartment in Hebbal,apartment,9468144,1212,3,"Random Street, Hebbal",Hebbal,Bangalore,13.038075,77.603373
+prop_103,3 BHK Apartment in Hebbal,apartment,9195468,1301,3,"Random Street, Hebbal",Hebbal,Bangalore,13.043226,77.592104
+prop_104,3 BHK Apartment in HSR Layout,apartment,12324711,1311,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.919594,77.636233
+prop_105,3 BHK Apartment in Bellandur,apartment,8397184,1156,3,"Random Street, Bellandur",Bellandur,Bangalore,12.930928,77.672795
+prop_106,3 BHK Apartment in Sarjapur,apartment,7909984,1208,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.91138,77.663455
+prop_107,3 BHK Apartment in Indiranagar,apartment,13324365,1293,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.967501,77.648726
+prop_108,2 BHK Apartment in Electronic City,apartment,4658299,841,2,"Random Street, Electronic City",Electronic City,Bangalore,12.859039,77.646271
+prop_109,4 BHK Apartment in Jayanagar,apartment,13324986,1494,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.937625,77.569181
+prop_110,3 BHK Apartment in Electronic City,apartment,6151700,1084,3,"Random Street, Electronic City",Electronic City,Bangalore,12.841691,77.668675
+prop_111,3 BHK Apartment in Jayanagar,apartment,10914960,1095,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.916923,77.582369
+prop_112,3 BHK Apartment in HSR Layout,apartment,9058352,1112,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.925798,77.640182
+prop_113,4 BHK Apartment in Jayanagar,apartment,13962970,1510,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.924682,77.574299
+prop_114,3 BHK Apartment in Jayanagar,apartment,11190168,1194,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.943497,77.597089
+prop_115,3 BHK Apartment in Koramangala,apartment,12351578,1271,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92664,77.628104
+prop_116,4 BHK Apartment in HSR Layout,apartment,10925970,1465,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.904867,77.656565
+prop_117,3 BHK Apartment in Marathahalli,apartment,7580202,1239,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.968854,77.711312
+prop_118,4 BHK Apartment in Whitefield,apartment,11404104,1686,4,"Random Street, Whitefield",Whitefield,Bangalore,12.964151,77.75116
+prop_119,3 BHK Apartment in Jayanagar,apartment,10650279,1137,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.936994,77.593818
+prop_120,3 BHK Apartment in Hebbal,apartment,10065666,1326,3,"Random Street, Hebbal",Hebbal,Bangalore,13.02126,77.590664
+prop_121,4 BHK Apartment in Hebbal,apartment,12109373,1523,4,"Random Street, Hebbal",Hebbal,Bangalore,13.031229,77.58505
+prop_122,3 BHK Apartment in Bellandur,apartment,10015850,1235,3,"Random Street, Bellandur",Bellandur,Bangalore,12.933576,77.690194
+prop_123,3 BHK Apartment in Jayanagar,apartment,10989440,1232,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.943363,77.578329
+prop_124,2 BHK Apartment in Electronic City,apartment,5431293,927,2,"Random Street, Electronic City",Electronic City,Bangalore,12.859128,77.658141
+prop_125,2 BHK Apartment in Marathahalli,apartment,6339540,996,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.960575,77.688031
+prop_126,3 BHK Apartment in Koramangala,apartment,9513000,1125,3,"Random Street, Koramangala",Koramangala,Bangalore,12.930392,77.634068
+prop_127,3 BHK Apartment in Bellandur,apartment,9219230,1255,3,"Random Street, Bellandur",Bellandur,Bangalore,12.941433,77.679021
+prop_128,3 BHK Apartment in Sarjapur,apartment,8257359,1353,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.922321,77.676185
+prop_129,2 BHK Apartment in Koramangala,apartment,7129085,743,2,"Random Street, Koramangala",Koramangala,Bangalore,12.945575,77.632723
+prop_130,3 BHK Apartment in Sarjapur,apartment,9432960,1360,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.936414,77.679659
+prop_131,3 BHK Apartment in Sarjapur,apartment,9050200,1223,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.920444,77.677237
+prop_132,3 BHK Apartment in Bellandur,apartment,9091152,1244,3,"Random Street, Bellandur",Bellandur,Bangalore,12.934856,77.693126
+prop_133,3 BHK Apartment in Marathahalli,apartment,7225702,1166,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.964454,77.701597
+prop_134,3 BHK Apartment in Bellandur,apartment,10837995,1165,3,"Random Street, Bellandur",Bellandur,Bangalore,12.94405,77.685892
+prop_135,3 BHK Apartment in Whitefield,apartment,10189018,1381,3,"Random Street, Whitefield",Whitefield,Bangalore,12.982,77.757339
+prop_136,3 BHK Apartment in Jayanagar,apartment,12281299,1369,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93606,77.573496
+prop_137,2 BHK Apartment in Koramangala,apartment,8239198,857,2,"Random Street, Koramangala",Koramangala,Bangalore,12.930112,77.616718
+prop_138,3 BHK Apartment in Marathahalli,apartment,7747593,1113,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.947531,77.711891
+prop_139,4 BHK Apartment in Whitefield,apartment,13420407,1599,4,"Random Street, Whitefield",Whitefield,Bangalore,12.97307,77.758579
+prop_140,3 BHK Apartment in Koramangala,apartment,10647601,1147,3,"Random Street, Koramangala",Koramangala,Bangalore,12.944962,77.638246
+prop_141,2 BHK Apartment in Koramangala,apartment,7025480,770,2,"Random Street, Koramangala",Koramangala,Bangalore,12.92338,77.633454
+prop_142,3 BHK Apartment in Electronic City,apartment,5157936,1008,3,"Random Street, Electronic City",Electronic City,Bangalore,12.837996,77.672937
+prop_143,3 BHK Apartment in Koramangala,apartment,12163810,1285,3,"Random Street, Koramangala",Koramangala,Bangalore,12.932932,77.615559
+prop_144,3 BHK Apartment in Koramangala,apartment,9078048,1064,3,"Random Street, Koramangala",Koramangala,Bangalore,12.945467,77.62835
+prop_145,2 BHK Apartment in Marathahalli,apartment,4729536,864,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.961572,77.70587
+prop_146,3 BHK Apartment in Whitefield,apartment,8684978,1093,3,"Random Street, Whitefield",Whitefield,Bangalore,12.957297,77.762246
+prop_147,3 BHK Apartment in Electronic City,apartment,7415288,1163,3,"Random Street, Electronic City",Electronic City,Bangalore,12.852508,77.651956
+prop_148,3 BHK Apartment in Bellandur,apartment,9126137,1273,3,"Random Street, Bellandur",Bellandur,Bangalore,12.925786,77.68801
+prop_149,3 BHK Apartment in Jayanagar,apartment,13123712,1358,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.937371,77.585665
+prop_150,3 BHK Apartment in Jayanagar,apartment,10936803,1137,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.943275,77.580774
+prop_151,3 BHK Apartment in HSR Layout,apartment,9590490,1171,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.903211,77.649264
+prop_152,3 BHK Apartment in Electronic City,apartment,5572600,1192,3,"Random Street, Electronic City",Electronic City,Bangalore,12.848361,77.651991
+prop_153,3 BHK Apartment in Marathahalli,apartment,7206149,1093,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.954933,77.69954
+prop_154,4 BHK Apartment in Jayanagar,apartment,12134060,1460,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939654,77.572687
+prop_155,3 BHK Apartment in Indiranagar,apartment,11502720,1152,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.974113,77.647181
+prop_156,3 BHK Apartment in Whitefield,apartment,8149908,1068,3,"Random Street, Whitefield",Whitefield,Bangalore,12.983181,77.763141
+prop_157,3 BHK Apartment in Marathahalli,apartment,9083206,1334,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.970329,77.692075
+prop_158,3 BHK Apartment in Indiranagar,apartment,10072758,1081,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.95941,77.645642
+prop_159,4 BHK Apartment in Bellandur,apartment,10604960,1678,4,"Random Street, Bellandur",Bellandur,Bangalore,12.91829,77.672322
+prop_160,3 BHK Apartment in Bellandur,apartment,8846647,1159,3,"Random Street, Bellandur",Bellandur,Bangalore,12.921647,77.666074
+prop_161,2 BHK Apartment in Koramangala,apartment,8619300,900,2,"Random Street, Koramangala",Koramangala,Bangalore,12.937342,77.622953
+prop_162,5 BHK Apartment in Hebbal,apartment,15717979,1819,5,"Random Street, Hebbal",Hebbal,Bangalore,13.024256,77.609633
+prop_163,2 BHK Apartment in Marathahalli,apartment,5961016,827,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.957385,77.698413
+prop_164,4 BHK Apartment in Hebbal,apartment,12598521,1599,4,"Random Street, Hebbal",Hebbal,Bangalore,13.025999,77.591132
+prop_165,3 BHK Apartment in HSR Layout,apartment,9281151,1167,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.914544,77.64368
+prop_166,3 BHK Apartment in Hebbal,apartment,10286430,1281,3,"Random Street, Hebbal",Hebbal,Bangalore,13.038973,77.59772
+prop_167,3 BHK Apartment in Whitefield,apartment,8351380,1055,3,"Random Street, Whitefield",Whitefield,Bangalore,12.981472,77.763485
+prop_168,3 BHK Apartment in Electronic City,apartment,6664680,1080,3,"Random Street, Electronic City",Electronic City,Bangalore,12.850979,77.673215
+prop_169,3 BHK Apartment in HSR Layout,apartment,8698305,1155,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.923577,77.650296
+prop_170,3 BHK Apartment in Marathahalli,apartment,8892171,1341,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.963617,77.692299
+prop_171,3 BHK Apartment in Bellandur,apartment,8693100,1170,3,"Random Street, Bellandur",Bellandur,Bangalore,12.927724,77.686471
+prop_172,3 BHK Apartment in Marathahalli,apartment,7438809,1139,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.963646,77.710054
+prop_173,3 BHK Apartment in Marathahalli,apartment,7792301,1067,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.949704,77.705256
+prop_174,3 BHK Apartment in Marathahalli,apartment,7154550,1170,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.94366,77.708183
+prop_175,3 BHK Apartment in Koramangala,apartment,9228072,1064,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92789,77.615844
+prop_176,4 BHK Apartment in Bellandur,apartment,10498950,1515,4,"Random Street, Bellandur",Bellandur,Bangalore,12.92865,77.666255
+prop_177,3 BHK Apartment in Hebbal,apartment,10441920,1168,3,"Random Street, Hebbal",Hebbal,Bangalore,13.02092,77.586276
+prop_178,3 BHK Apartment in Bellandur,apartment,9312600,1275,3,"Random Street, Bellandur",Bellandur,Bangalore,12.92901,77.677783
+prop_179,2 BHK Apartment in Jayanagar,apartment,7931690,962,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.917148,77.590204
+prop_180,3 BHK Apartment in Koramangala,apartment,12542820,1380,3,"Random Street, Koramangala",Koramangala,Bangalore,12.922156,77.614775
+prop_181,4 BHK Apartment in Indiranagar,apartment,17610486,1546,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.976213,77.629924
+prop_182,4 BHK Apartment in Whitefield,apartment,9332557,1469,4,"Random Street, Whitefield",Whitefield,Bangalore,12.969562,77.760155
+prop_183,2 BHK Apartment in Jayanagar,apartment,8286250,947,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.941022,77.575183
+prop_184,4 BHK Apartment in Bellandur,apartment,10564100,1418,4,"Random Street, Bellandur",Bellandur,Bangalore,12.937139,77.68035
+prop_185,2 BHK Apartment in Electronic City,apartment,4567759,883,2,"Random Street, Electronic City",Electronic City,Bangalore,12.834973,77.657678
+prop_186,2 BHK Apartment in Marathahalli,apartment,6298500,969,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.962789,77.714516
+prop_187,3 BHK Apartment in Indiranagar,apartment,13920244,1339,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.966066,77.637703
+prop_188,3 BHK Apartment in Whitefield,apartment,8736640,1241,3,"Random Street, Whitefield",Whitefield,Bangalore,12.968165,77.753574
+prop_189,3 BHK Apartment in Bellandur,apartment,10667277,1251,3,"Random Street, Bellandur",Bellandur,Bangalore,12.930122,77.69026
+prop_190,3 BHK Apartment in Hebbal,apartment,10166272,1241,3,"Random Street, Hebbal",Hebbal,Bangalore,13.026476,77.606445
+prop_191,4 BHK Apartment in HSR Layout,apartment,11570115,1445,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.918287,77.64117
+prop_192,4 BHK Apartment in Hebbal,apartment,11606345,1459,4,"Random Street, Hebbal",Hebbal,Bangalore,13.041695,77.585305
+prop_193,3 BHK Apartment in Koramangala,apartment,11522124,1139,3,"Random Street, Koramangala",Koramangala,Bangalore,12.929319,77.626698
+prop_194,2 BHK Apartment in Electronic City,apartment,5463600,942,2,"Random Street, Electronic City",Electronic City,Bangalore,12.851559,77.651247
+prop_195,4 BHK Apartment in Indiranagar,apartment,14504826,1446,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.963256,77.643059
+prop_196,3 BHK Apartment in HSR Layout,apartment,11488008,1281,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.921673,77.656011
+prop_197,2 BHK Apartment in Marathahalli,apartment,5474565,855,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.953427,77.708071
+prop_198,4 BHK Apartment in Hebbal,apartment,9833500,1420,4,"Random Street, Hebbal",Hebbal,Bangalore,13.036427,77.602741
+prop_199,3 BHK Apartment in Bellandur,apartment,8835960,1340,3,"Random Street, Bellandur",Bellandur,Bangalore,12.944278,77.668517
+prop_200,4 BHK Apartment in Bellandur,apartment,8961183,1407,4,"Random Street, Bellandur",Bellandur,Bangalore,12.94196,77.688208
+prop_201,3 BHK Apartment in Sarjapur,apartment,9014563,1247,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.918265,77.667928
+prop_202,4 BHK Apartment in Bellandur,apartment,9244422,1422,4,"Random Street, Bellandur",Bellandur,Bangalore,12.943983,77.683902
+prop_203,4 BHK Apartment in Hebbal,apartment,11873484,1524,4,"Random Street, Hebbal",Hebbal,Bangalore,13.039611,77.583834
+prop_204,3 BHK Apartment in Whitefield,apartment,9645584,1264,3,"Random Street, Whitefield",Whitefield,Bangalore,12.983781,77.763974
+prop_205,4 BHK Apartment in Sarjapur,apartment,12073305,1613,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.934765,77.676524
+prop_206,4 BHK Apartment in HSR Layout,apartment,11294584,1451,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.912251,77.644783
+prop_207,4 BHK Apartment in Jayanagar,apartment,12538232,1448,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93567,77.570864
+prop_208,5 BHK Apartment in Bellandur,apartment,14470380,1905,5,"Random Street, Bellandur",Bellandur,Bangalore,12.934324,77.683516
+prop_209,3 BHK Apartment in Electronic City,apartment,6125392,1202,3,"Random Street, Electronic City",Electronic City,Bangalore,12.858703,77.649635
+prop_210,3 BHK Apartment in HSR Layout,apartment,9632592,1208,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.89757,77.644128
+prop_211,4 BHK Apartment in Bellandur,apartment,11117315,1543,4,"Random Street, Bellandur",Bellandur,Bangalore,12.943508,77.669398
+prop_212,3 BHK Apartment in HSR Layout,apartment,9571212,1197,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900205,77.638677
+prop_213,2 BHK Apartment in Electronic City,apartment,5065660,940,2,"Random Street, Electronic City",Electronic City,Bangalore,12.830696,77.652768
+prop_214,3 BHK Apartment in Jayanagar,apartment,9357972,1076,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.925153,77.575671
+prop_215,5 BHK Apartment in Hebbal,apartment,14167434,1829,5,"Random Street, Hebbal",Hebbal,Bangalore,13.046057,77.601253
+prop_216,3 BHK Apartment in Indiranagar,apartment,13555360,1274,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.986061,77.639497
+prop_217,3 BHK Apartment in HSR Layout,apartment,11007588,1363,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.90249,77.630149
+prop_218,3 BHK Apartment in Bellandur,apartment,8807850,1150,3,"Random Street, Bellandur",Bellandur,Bangalore,12.935064,77.66802
+prop_219,4 BHK Apartment in Hebbal,apartment,12931030,1414,4,"Random Street, Hebbal",Hebbal,Bangalore,13.022455,77.610022
+prop_220,4 BHK Apartment in Hebbal,apartment,12219498,1479,4,"Random Street, Hebbal",Hebbal,Bangalore,13.022384,77.587709
+prop_221,3 BHK Apartment in Hebbal,apartment,9600565,1163,3,"Random Street, Hebbal",Hebbal,Bangalore,13.02705,77.596769
+prop_222,4 BHK Apartment in Bellandur,apartment,9861921,1499,4,"Random Street, Bellandur",Bellandur,Bangalore,12.939846,77.669067
+prop_223,3 BHK Apartment in Sarjapur,apartment,8664292,1183,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.912586,77.685545
+prop_224,3 BHK Apartment in Indiranagar,apartment,14148816,1397,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.959611,77.632993
+prop_225,3 BHK Apartment in Whitefield,apartment,8289127,1297,3,"Random Street, Whitefield",Whitefield,Bangalore,12.970416,77.752011
+prop_226,3 BHK Apartment in Electronic City,apartment,6068182,1219,3,"Random Street, Electronic City",Electronic City,Bangalore,12.841181,77.660304
+prop_227,3 BHK Apartment in Jayanagar,apartment,9610349,1169,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.941359,77.589637
+prop_228,4 BHK Apartment in Hebbal,apartment,11701381,1481,4,"Random Street, Hebbal",Hebbal,Bangalore,13.034803,77.610435
+prop_229,4 BHK Apartment in Marathahalli,apartment,9393085,1403,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.968133,77.709646
+prop_230,3 BHK Apartment in Koramangala,apartment,13208475,1267,3,"Random Street, Koramangala",Koramangala,Bangalore,12.940942,77.631118
+prop_231,3 BHK Apartment in Sarjapur,apartment,7511637,1113,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.91341,77.66169
+prop_232,3 BHK Apartment in Whitefield,apartment,9686760,1335,3,"Random Street, Whitefield",Whitefield,Bangalore,12.967889,77.736647
+prop_233,3 BHK Apartment in Whitefield,apartment,7054320,1020,3,"Random Street, Whitefield",Whitefield,Bangalore,12.984505,77.755568
+prop_234,5 BHK Apartment in Sarjapur,apartment,13251176,1864,5,"Random Street, Sarjapur",Sarjapur,Bangalore,12.918421,77.686213
+prop_235,3 BHK Apartment in Marathahalli,apartment,10031190,1335,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.960673,77.699568
+prop_236,2 BHK Apartment in Koramangala,apartment,10291125,975,2,"Random Street, Koramangala",Koramangala,Bangalore,12.940771,77.625942
+prop_237,3 BHK Apartment in Hebbal,apartment,8459850,1151,3,"Random Street, Hebbal",Hebbal,Bangalore,13.045854,77.610809
+prop_238,3 BHK Apartment in Koramangala,apartment,11850091,1121,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92833,77.623276
+prop_239,4 BHK Apartment in Whitefield,apartment,12120205,1685,4,"Random Street, Whitefield",Whitefield,Bangalore,12.963485,77.736728
+prop_240,3 BHK Apartment in Koramangala,apartment,9710501,1007,3,"Random Street, Koramangala",Koramangala,Bangalore,12.920996,77.629615
+prop_241,3 BHK Apartment in Whitefield,apartment,9933916,1388,3,"Random Street, Whitefield",Whitefield,Bangalore,12.963424,77.743855
+prop_242,2 BHK Apartment in Koramangala,apartment,7233920,640,2,"Random Street, Koramangala",Koramangala,Bangalore,12.93383,77.610549
+prop_243,3 BHK Apartment in HSR Layout,apartment,8510124,1059,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.908314,77.645135
+prop_244,3 BHK Apartment in Koramangala,apartment,11221476,1068,3,"Random Street, Koramangala",Koramangala,Bangalore,12.921614,77.619579
+prop_245,4 BHK Apartment in Indiranagar,apartment,14537217,1429,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.986565,77.651971
+prop_246,3 BHK Apartment in Whitefield,apartment,10614681,1309,3,"Random Street, Whitefield",Whitefield,Bangalore,12.954975,77.752527
+prop_247,2 BHK Apartment in Electronic City,apartment,5629977,873,2,"Random Street, Electronic City",Electronic City,Bangalore,12.844955,77.673407
+prop_248,4 BHK Apartment in Koramangala,apartment,13496353,1481,4,"Random Street, Koramangala",Koramangala,Bangalore,12.948816,77.630085
+prop_249,3 BHK Apartment in Hebbal,apartment,10853727,1231,3,"Random Street, Hebbal",Hebbal,Bangalore,13.032441,77.593654
+prop_250,4 BHK Apartment in Hebbal,apartment,13103668,1471,4,"Random Street, Hebbal",Hebbal,Bangalore,13.048127,77.600429
+prop_251,4 BHK Apartment in Hebbal,apartment,11567976,1554,4,"Random Street, Hebbal",Hebbal,Bangalore,13.022844,77.605442
+prop_252,3 BHK Apartment in Whitefield,apartment,9835350,1330,3,"Random Street, Whitefield",Whitefield,Bangalore,12.972475,77.759208
+prop_253,3 BHK Apartment in Jayanagar,apartment,12047772,1284,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93597,77.57066
+prop_254,3 BHK Apartment in Indiranagar,apartment,12653338,1189,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960825,77.643489
+prop_255,3 BHK Apartment in Hebbal,apartment,10381390,1343,3,"Random Street, Hebbal",Hebbal,Bangalore,13.031075,77.596862
+prop_256,2 BHK Apartment in Marathahalli,apartment,5458706,883,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.95674,77.700637
+prop_257,3 BHK Apartment in Bellandur,apartment,8835680,1127,3,"Random Street, Bellandur",Bellandur,Bangalore,12.917617,77.664184
+prop_258,3 BHK Apartment in Jayanagar,apartment,10511590,1103,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.927975,77.572499
+prop_259,3 BHK Apartment in Electronic City,apartment,6254914,1366,3,"Random Street, Electronic City",Electronic City,Bangalore,12.830628,77.649981
+prop_260,3 BHK Apartment in Jayanagar,apartment,10856615,1141,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.941679,77.578696
+prop_261,3 BHK Apartment in Hebbal,apartment,9761126,1193,3,"Random Street, Hebbal",Hebbal,Bangalore,13.042661,77.60429
+prop_262,3 BHK Apartment in HSR Layout,apartment,10929930,1210,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.919484,77.654561
+prop_263,3 BHK Apartment in Electronic City,apartment,6093780,1319,3,"Random Street, Electronic City",Electronic City,Bangalore,12.845458,77.647182
+prop_264,3 BHK Apartment in HSR Layout,apartment,10339602,1306,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.908642,77.648384
+prop_265,3 BHK Apartment in Electronic City,apartment,7112264,1321,3,"Random Street, Electronic City",Electronic City,Bangalore,12.834911,77.650922
+prop_266,3 BHK Apartment in Jayanagar,apartment,12666882,1311,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.944023,77.568488
+prop_267,3 BHK Apartment in Sarjapur,apartment,6477574,1094,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.909278,77.675696
+prop_268,3 BHK Apartment in HSR Layout,apartment,7997150,1022,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.919058,77.63945
+prop_269,2 BHK Apartment in Jayanagar,apartment,7248000,750,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939995,77.577656
+prop_270,3 BHK Apartment in Whitefield,apartment,8412544,1148,3,"Random Street, Whitefield",Whitefield,Bangalore,12.969151,77.737175
+prop_271,3 BHK Apartment in Koramangala,apartment,10710535,1009,3,"Random Street, Koramangala",Koramangala,Bangalore,12.938425,77.630474
+prop_272,3 BHK Apartment in Indiranagar,apartment,15377376,1372,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.966763,77.63699
+prop_273,3 BHK Apartment in Marathahalli,apartment,10729040,1372,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.969983,77.704784
+prop_274,3 BHK Apartment in HSR Layout,apartment,9380577,1119,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.917858,77.630724
+prop_275,4 BHK Apartment in Whitefield,apartment,11314273,1423,4,"Random Street, Whitefield",Whitefield,Bangalore,12.976179,77.763291
+prop_276,3 BHK Apartment in Bellandur,apartment,8761732,1343,3,"Random Street, Bellandur",Bellandur,Bangalore,12.925807,77.665823
+prop_277,2 BHK Apartment in Electronic City,apartment,5025804,938,2,"Random Street, Electronic City",Electronic City,Bangalore,12.850408,77.647368
+prop_278,3 BHK Apartment in Sarjapur,apartment,7674205,1085,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.910025,77.684604
+prop_279,3 BHK Apartment in Whitefield,apartment,10268665,1331,3,"Random Street, Whitefield",Whitefield,Bangalore,12.974406,77.749504
+prop_280,3 BHK Apartment in Bellandur,apartment,9056501,1229,3,"Random Street, Bellandur",Bellandur,Bangalore,12.942664,77.689152
+prop_281,4 BHK Apartment in Whitefield,apartment,14287140,1740,4,"Random Street, Whitefield",Whitefield,Bangalore,12.979401,77.763581
+prop_282,3 BHK Apartment in Sarjapur,apartment,6724148,1028,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.90942,77.681796
+prop_283,3 BHK Apartment in Bellandur,apartment,8963695,1195,3,"Random Street, Bellandur",Bellandur,Bangalore,12.936265,77.677534
+prop_284,4 BHK Apartment in Indiranagar,apartment,14321853,1407,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.972919,77.63942
+prop_285,3 BHK Apartment in Hebbal,apartment,8823485,1171,3,"Random Street, Hebbal",Hebbal,Bangalore,13.029045,77.613275
+prop_286,4 BHK Apartment in Bellandur,apartment,9968530,1430,4,"Random Street, Bellandur",Bellandur,Bangalore,12.926366,77.689342
+prop_287,3 BHK Apartment in Indiranagar,apartment,15643390,1393,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.972715,77.652353
+prop_288,2 BHK Apartment in Electronic City,apartment,5779389,889,2,"Random Street, Electronic City",Electronic City,Bangalore,12.852061,77.659298
+prop_289,3 BHK Apartment in Marathahalli,apartment,7963110,1305,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.947806,77.701473
+prop_290,3 BHK Apartment in Electronic City,apartment,5119638,1041,3,"Random Street, Electronic City",Electronic City,Bangalore,12.84221,77.66123
+prop_291,4 BHK Apartment in Whitefield,apartment,11267950,1450,4,"Random Street, Whitefield",Whitefield,Bangalore,12.960846,77.761386
+prop_292,4 BHK Apartment in Marathahalli,apartment,10344754,1526,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.954597,77.687633
+prop_293,2 BHK Apartment in Electronic City,apartment,3526112,808,2,"Random Street, Electronic City",Electronic City,Bangalore,12.844387,77.648336
+prop_294,3 BHK Apartment in Indiranagar,apartment,11227650,1050,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.957255,77.634397
+prop_295,3 BHK Apartment in Sarjapur,apartment,8286624,1251,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.91066,77.662803
+prop_296,3 BHK Apartment in Sarjapur,apartment,8598337,1133,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.934276,77.679212
+prop_297,4 BHK Apartment in Hebbal,apartment,12135465,1437,4,"Random Street, Hebbal",Hebbal,Bangalore,13.030443,77.610003
+prop_298,2 BHK Apartment in Electronic City,apartment,4260260,769,2,"Random Street, Electronic City",Electronic City,Bangalore,12.849742,77.664328
+prop_299,3 BHK Apartment in HSR Layout,apartment,8990756,1213,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900161,77.65814
+prop_300,3 BHK Apartment in Sarjapur,apartment,8441213,1243,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.912166,77.675975
+prop_301,4 BHK Apartment in Hebbal,apartment,13907401,1721,4,"Random Street, Hebbal",Hebbal,Bangalore,13.030994,77.601397
+prop_302,4 BHK Apartment in Bellandur,apartment,11062530,1515,4,"Random Street, Bellandur",Bellandur,Bangalore,12.939504,77.693213
+prop_303,3 BHK Apartment in Marathahalli,apartment,7372818,1341,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.969127,77.696622
+prop_304,3 BHK Apartment in Sarjapur,apartment,6147442,1043,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.926557,77.668333
+prop_305,3 BHK Apartment in Koramangala,apartment,11134856,1304,3,"Random Street, Koramangala",Koramangala,Bangalore,12.925551,77.621883
+prop_306,4 BHK Apartment in Whitefield,apartment,11829572,1459,4,"Random Street, Whitefield",Whitefield,Bangalore,12.962786,77.745656
+prop_307,3 BHK Apartment in Whitefield,apartment,9173140,1348,3,"Random Street, Whitefield",Whitefield,Bangalore,12.959955,77.764724
+prop_308,3 BHK Apartment in Sarjapur,apartment,9146180,1348,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.928043,77.665171
+prop_309,2 BHK Apartment in Jayanagar,apartment,7852907,773,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.927918,77.589074
+prop_310,2 BHK Apartment in Electronic City,apartment,6683657,977,2,"Random Street, Electronic City",Electronic City,Bangalore,12.84525,77.673301
+prop_311,2 BHK Apartment in Whitefield,apartment,7537270,962,2,"Random Street, Whitefield",Whitefield,Bangalore,12.984194,77.76216
+prop_312,4 BHK Apartment in Hebbal,apartment,13202830,1718,4,"Random Street, Hebbal",Hebbal,Bangalore,13.05003,77.604911
+prop_313,3 BHK Apartment in Bellandur,apartment,9500094,1251,3,"Random Street, Bellandur",Bellandur,Bangalore,12.922285,77.685749
+prop_314,4 BHK Apartment in Bellandur,apartment,11456232,1462,4,"Random Street, Bellandur",Bellandur,Bangalore,12.928032,77.676675
+prop_315,3 BHK Apartment in Sarjapur,apartment,7642474,1162,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.925581,77.681816
+prop_316,2 BHK Apartment in Electronic City,apartment,4262892,822,2,"Random Street, Electronic City",Electronic City,Bangalore,12.85429,77.670667
+prop_317,4 BHK Apartment in Hebbal,apartment,15268616,1798,4,"Random Street, Hebbal",Hebbal,Bangalore,13.021098,77.611142
+prop_318,3 BHK Apartment in Marathahalli,apartment,8880960,1392,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.967892,77.712142
+prop_319,2 BHK Apartment in Electronic City,apartment,4974200,935,2,"Random Street, Electronic City",Electronic City,Bangalore,12.83138,77.673212
+prop_320,3 BHK Apartment in Bellandur,apartment,8828280,1233,3,"Random Street, Bellandur",Bellandur,Bangalore,12.928054,77.676355
+prop_321,3 BHK Apartment in Marathahalli,apartment,7228500,1220,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.958123,77.713216
+prop_322,3 BHK Apartment in HSR Layout,apartment,9728342,1222,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.906594,77.657776
+prop_323,4 BHK Apartment in Hebbal,apartment,13548327,1599,4,"Random Street, Hebbal",Hebbal,Bangalore,13.023452,77.584749
+prop_324,3 BHK Apartment in HSR Layout,apartment,9886822,1243,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.913121,77.633095
+prop_325,3 BHK Apartment in Electronic City,apartment,5605960,1076,3,"Random Street, Electronic City",Electronic City,Bangalore,12.856913,77.671675
+prop_326,3 BHK Apartment in Marathahalli,apartment,8930610,1170,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.961298,77.692909
+prop_327,2 BHK Apartment in Electronic City,apartment,4855084,949,2,"Random Street, Electronic City",Electronic City,Bangalore,12.830464,77.669529
+prop_328,3 BHK Apartment in Electronic City,apartment,6492020,1147,3,"Random Street, Electronic City",Electronic City,Bangalore,12.836802,77.663975
+prop_329,3 BHK Apartment in Indiranagar,apartment,10984869,1083,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.969407,77.648717
+prop_330,4 BHK Apartment in Electronic City,apartment,9291834,1458,4,"Random Street, Electronic City",Electronic City,Bangalore,12.85397,77.670108
+prop_331,4 BHK Apartment in Hebbal,apartment,14802048,1728,4,"Random Street, Hebbal",Hebbal,Bangalore,13.049526,77.586699
+prop_332,4 BHK Apartment in Bellandur,apartment,12155452,1619,4,"Random Street, Bellandur",Bellandur,Bangalore,12.934128,77.683293
+prop_333,3 BHK Apartment in Sarjapur,apartment,9415008,1282,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.92869,77.671234
+prop_334,3 BHK Apartment in Koramangala,apartment,8691280,1040,3,"Random Street, Koramangala",Koramangala,Bangalore,12.929453,77.632749
+prop_335,4 BHK Apartment in Whitefield,apartment,9671317,1433,4,"Random Street, Whitefield",Whitefield,Bangalore,12.969579,77.739552
+prop_336,3 BHK Apartment in Whitefield,apartment,6667770,1110,3,"Random Street, Whitefield",Whitefield,Bangalore,12.982283,77.762948
+prop_337,3 BHK Apartment in Marathahalli,apartment,8788437,1393,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.949764,77.69848
+prop_338,2 BHK Apartment in Marathahalli,apartment,5722920,840,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.96668,77.708033
+prop_339,3 BHK Apartment in Indiranagar,apartment,12509847,1197,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.966436,77.651473
+prop_340,3 BHK Apartment in Jayanagar,apartment,10025661,1013,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.932886,77.59633
+prop_341,3 BHK Apartment in Bellandur,apartment,9351496,1292,3,"Random Street, Bellandur",Bellandur,Bangalore,12.938562,77.692453
+prop_342,2 BHK Apartment in Jayanagar,apartment,6248496,698,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.940338,77.584405
+prop_343,2 BHK Apartment in Koramangala,apartment,7557986,877,2,"Random Street, Koramangala",Koramangala,Bangalore,12.941591,77.638139
+prop_344,4 BHK Apartment in Whitefield,apartment,9379388,1478,4,"Random Street, Whitefield",Whitefield,Bangalore,12.958304,77.756477
+prop_345,3 BHK Apartment in Whitefield,apartment,8437356,1278,3,"Random Street, Whitefield",Whitefield,Bangalore,12.963093,77.757146
+prop_346,3 BHK Apartment in Jayanagar,apartment,12410816,1342,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93498,77.580158
+prop_347,3 BHK Apartment in HSR Layout,apartment,10429908,1394,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.909215,77.638223
+prop_348,4 BHK Apartment in Indiranagar,apartment,15604620,1415,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.957315,77.640084
+prop_349,3 BHK Apartment in Marathahalli,apartment,7358160,1104,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.95457,77.710662
+prop_350,3 BHK Apartment in Koramangala,apartment,10495520,1120,3,"Random Street, Koramangala",Koramangala,Bangalore,12.933253,77.61394
+prop_351,3 BHK Apartment in Indiranagar,apartment,14337000,1350,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.964184,77.644336
+prop_352,2 BHK Apartment in Koramangala,apartment,8385720,938,2,"Random Street, Koramangala",Koramangala,Bangalore,12.924457,77.636743
+prop_353,3 BHK Apartment in Whitefield,apartment,11156572,1252,3,"Random Street, Whitefield",Whitefield,Bangalore,12.970111,77.74624
+prop_354,3 BHK Apartment in Indiranagar,apartment,11403350,1085,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.972404,77.630886
+prop_355,3 BHK Apartment in HSR Layout,apartment,10732663,1273,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.91223,77.633406
+prop_356,3 BHK Apartment in Electronic City,apartment,5746000,1040,3,"Random Street, Electronic City",Electronic City,Bangalore,12.83065,77.653131
+prop_357,3 BHK Apartment in Indiranagar,apartment,12706720,1192,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.98482,77.63761
+prop_358,4 BHK Apartment in Sarjapur,apartment,9281732,1492,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.936672,77.66406
+prop_359,2 BHK Apartment in Koramangala,apartment,9343250,950,2,"Random Street, Koramangala",Koramangala,Bangalore,12.927898,77.619249
+prop_360,3 BHK Apartment in Sarjapur,apartment,8424624,1104,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.915022,77.677785
+prop_361,3 BHK Apartment in Jayanagar,apartment,13164060,1365,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939176,77.580954
+prop_362,3 BHK Apartment in Jayanagar,apartment,12633705,1305,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.921965,77.59021
+prop_363,3 BHK Apartment in Hebbal,apartment,10039190,1211,3,"Random Street, Hebbal",Hebbal,Bangalore,13.04634,77.599241
+prop_364,4 BHK Apartment in Whitefield,apartment,11816979,1509,4,"Random Street, Whitefield",Whitefield,Bangalore,12.96342,77.735861
+prop_365,3 BHK Apartment in Indiranagar,apartment,12836763,1233,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.978852,77.639466
+prop_366,4 BHK Apartment in Sarjapur,apartment,9747550,1423,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.93163,77.679368
+prop_367,3 BHK Apartment in Bellandur,apartment,8015571,1059,3,"Random Street, Bellandur",Bellandur,Bangalore,12.938527,77.671536
+prop_368,3 BHK Apartment in Jayanagar,apartment,9515210,1010,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.917843,77.579099
+prop_369,3 BHK Apartment in HSR Layout,apartment,8811099,1089,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.906318,77.641069
+prop_370,3 BHK Apartment in HSR Layout,apartment,9094974,1162,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.897532,77.633379
+prop_371,3 BHK Apartment in Bellandur,apartment,8303625,1089,3,"Random Street, Bellandur",Bellandur,Bangalore,12.922812,77.66562
+prop_372,2 BHK Apartment in Electronic City,apartment,4983480,872,2,"Random Street, Electronic City",Electronic City,Bangalore,12.842627,77.670182
+prop_373,3 BHK Apartment in Sarjapur,apartment,6820899,1033,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.929392,77.671765
+prop_374,3 BHK Apartment in Sarjapur,apartment,7157600,1150,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.932324,77.668293
+prop_375,3 BHK Apartment in Marathahalli,apartment,7594800,1200,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.970047,77.692896
+prop_376,2 BHK Apartment in Electronic City,apartment,3892788,639,2,"Random Street, Electronic City",Electronic City,Bangalore,12.844969,77.645984
+prop_377,4 BHK Apartment in Bellandur,apartment,11221691,1469,4,"Random Street, Bellandur",Bellandur,Bangalore,12.92766,77.677644
+prop_378,3 BHK Apartment in Jayanagar,apartment,10108692,1188,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.928249,77.592691
+prop_379,4 BHK Apartment in Whitefield,apartment,10905904,1552,4,"Random Street, Whitefield",Whitefield,Bangalore,12.969213,77.740876
+prop_380,4 BHK Apartment in Hebbal,apartment,12703120,1552,4,"Random Street, Hebbal",Hebbal,Bangalore,13.022045,77.602497
+prop_381,4 BHK Apartment in Whitefield,apartment,11847214,1538,4,"Random Street, Whitefield",Whitefield,Bangalore,12.961185,77.754703
+prop_382,3 BHK Apartment in Electronic City,apartment,5847140,1118,3,"Random Street, Electronic City",Electronic City,Bangalore,12.847744,77.675046
+prop_383,3 BHK Apartment in Koramangala,apartment,11952504,1308,3,"Random Street, Koramangala",Koramangala,Bangalore,12.93297,77.615095
+prop_384,3 BHK Apartment in Jayanagar,apartment,14544167,1397,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.918244,77.59152
+prop_385,2 BHK Apartment in HSR Layout,apartment,5696600,728,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.913318,77.653126
+prop_386,3 BHK Apartment in Jayanagar,apartment,9783443,1093,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.930079,77.577304
+prop_387,3 BHK Apartment in HSR Layout,apartment,8270955,1085,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.923122,77.654032
+prop_388,3 BHK Apartment in Hebbal,apartment,10249713,1269,3,"Random Street, Hebbal",Hebbal,Bangalore,13.031544,77.592653
+prop_389,3 BHK Apartment in Sarjapur,apartment,7475022,1278,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.923737,77.680297
+prop_390,4 BHK Apartment in Indiranagar,apartment,16810772,1478,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.977136,77.645057
+prop_391,3 BHK Apartment in Indiranagar,apartment,15221752,1339,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.974914,77.639188
+prop_392,3 BHK Apartment in Whitefield,apartment,8163664,1208,3,"Random Street, Whitefield",Whitefield,Bangalore,12.958351,77.735812
+prop_393,3 BHK Apartment in Marathahalli,apartment,8218688,1124,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.947142,77.715435
+prop_394,3 BHK Apartment in Jayanagar,apartment,12976964,1274,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.921139,77.593566
+prop_395,2 BHK Apartment in Whitefield,apartment,6716920,980,2,"Random Street, Whitefield",Whitefield,Bangalore,12.967164,77.74131
+prop_396,2 BHK Apartment in Koramangala,apartment,10363047,951,2,"Random Street, Koramangala",Koramangala,Bangalore,12.938937,77.627037
+prop_397,4 BHK Apartment in Bellandur,apartment,11179266,1487,4,"Random Street, Bellandur",Bellandur,Bangalore,12.93855,77.66402
+prop_398,2 BHK Apartment in Electronic City,apartment,4585980,915,2,"Random Street, Electronic City",Electronic City,Bangalore,12.846235,77.659336
+prop_399,2 BHK Apartment in Electronic City,apartment,4187190,785,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839332,77.665259
+prop_400,3 BHK Apartment in Whitefield,apartment,8467857,1293,3,"Random Street, Whitefield",Whitefield,Bangalore,12.967845,77.743847
+prop_401,2 BHK Apartment in Marathahalli,apartment,5806080,960,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.970872,77.691215
+prop_402,3 BHK Apartment in Whitefield,apartment,11056375,1375,3,"Random Street, Whitefield",Whitefield,Bangalore,12.978657,77.742875
+prop_403,3 BHK Apartment in Jayanagar,apartment,10412334,1098,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93036,77.57829
+prop_404,4 BHK Apartment in Hebbal,apartment,11827542,1509,4,"Random Street, Hebbal",Hebbal,Bangalore,13.030074,77.588437
+prop_405,3 BHK Apartment in Koramangala,apartment,11094084,1164,3,"Random Street, Koramangala",Koramangala,Bangalore,12.939115,77.63496
+prop_406,3 BHK Apartment in Electronic City,apartment,8311436,1292,3,"Random Street, Electronic City",Electronic City,Bangalore,12.859526,77.672327
+prop_407,3 BHK Apartment in Indiranagar,apartment,13422639,1173,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.977149,77.630854
+prop_408,3 BHK Apartment in Marathahalli,apartment,7290800,1100,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.949554,77.709819
+prop_409,3 BHK Apartment in Marathahalli,apartment,7396358,1121,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.950622,77.707637
+prop_410,3 BHK Apartment in Whitefield,apartment,8705190,1313,3,"Random Street, Whitefield",Whitefield,Bangalore,12.975422,77.743919
+prop_411,3 BHK Apartment in Koramangala,apartment,11391824,1096,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92577,77.631948
+prop_412,3 BHK Apartment in Sarjapur,apartment,6876963,1181,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.918978,77.680841
+prop_413,3 BHK Apartment in Whitefield,apartment,10872111,1327,3,"Random Street, Whitefield",Whitefield,Bangalore,12.979149,77.735995
+prop_414,4 BHK Apartment in Hebbal,apartment,11292940,1678,4,"Random Street, Hebbal",Hebbal,Bangalore,13.021871,77.599944
+prop_415,3 BHK Apartment in Indiranagar,apartment,10680026,1061,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.967375,77.655207
+prop_416,2 BHK Apartment in Electronic City,apartment,5423880,924,2,"Random Street, Electronic City",Electronic City,Bangalore,12.833875,77.650807
+prop_417,3 BHK Apartment in Sarjapur,apartment,8376048,1296,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.927872,77.676844
+prop_418,2 BHK Apartment in Koramangala,apartment,8880217,941,2,"Random Street, Koramangala",Koramangala,Bangalore,12.933333,77.618943
+prop_419,3 BHK Apartment in Bellandur,apartment,9222960,1328,3,"Random Street, Bellandur",Bellandur,Bangalore,12.918054,77.664384
+prop_420,4 BHK Apartment in Whitefield,apartment,12144715,1705,4,"Random Street, Whitefield",Whitefield,Bangalore,12.96648,77.750149
+prop_421,4 BHK Apartment in Jayanagar,apartment,13145132,1474,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.942965,77.590492
+prop_422,3 BHK Apartment in HSR Layout,apartment,10139630,1126,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.898308,77.630182
+prop_423,2 BHK Apartment in Electronic City,apartment,3477300,670,2,"Random Street, Electronic City",Electronic City,Bangalore,12.859318,77.649755
+prop_424,4 BHK Apartment in Hebbal,apartment,12596880,1460,4,"Random Street, Hebbal",Hebbal,Bangalore,13.02112,77.60373
+prop_425,3 BHK Apartment in HSR Layout,apartment,11452320,1320,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.907156,77.653625
+prop_426,4 BHK Apartment in Hebbal,apartment,12449940,1630,4,"Random Street, Hebbal",Hebbal,Bangalore,13.043493,77.596983
+prop_427,3 BHK Apartment in Electronic City,apartment,6862775,1055,3,"Random Street, Electronic City",Electronic City,Bangalore,12.854725,77.670986
+prop_428,4 BHK Apartment in HSR Layout,apartment,12673310,1690,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.922813,77.657422
+prop_429,3 BHK Apartment in Marathahalli,apartment,7190430,1074,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.952387,77.709926
+prop_430,3 BHK Apartment in Whitefield,apartment,8272611,1107,3,"Random Street, Whitefield",Whitefield,Bangalore,12.981069,77.738036
+prop_431,3 BHK Apartment in Jayanagar,apartment,9595630,1051,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.938196,77.591953
+prop_432,4 BHK Apartment in Hebbal,apartment,11426556,1401,4,"Random Street, Hebbal",Hebbal,Bangalore,13.028529,77.605244
+prop_433,3 BHK Apartment in Indiranagar,apartment,12675608,1258,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.976384,77.6466
+prop_434,3 BHK Apartment in Electronic City,apartment,6718316,1177,3,"Random Street, Electronic City",Electronic City,Bangalore,12.847259,77.653112
+prop_435,3 BHK Apartment in HSR Layout,apartment,11250200,1300,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.899995,77.641169
+prop_436,3 BHK Apartment in Bellandur,apartment,8992714,1318,3,"Random Street, Bellandur",Bellandur,Bangalore,12.927145,77.689325
+prop_437,2 BHK Apartment in Marathahalli,apartment,6139518,959,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.946506,77.713757
+prop_438,3 BHK Apartment in Jayanagar,apartment,11713310,1330,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.923665,77.583019
+prop_439,3 BHK Apartment in Marathahalli,apartment,6702411,1059,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.966783,77.713597
+prop_440,2 BHK Apartment in Marathahalli,apartment,7427565,999,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.942449,77.70976
+prop_441,3 BHK Apartment in Hebbal,apartment,10649421,1233,3,"Random Street, Hebbal",Hebbal,Bangalore,13.036116,77.585349
+prop_442,2 BHK Apartment in HSR Layout,apartment,7018375,875,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.91433,77.64674
+prop_443,3 BHK Apartment in Marathahalli,apartment,9099128,1396,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.97161,77.708642
+prop_444,3 BHK Apartment in Sarjapur,apartment,9110010,1365,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.934534,77.664316
+prop_445,2 BHK Apartment in Sarjapur,apartment,5922603,927,2,"Random Street, Sarjapur",Sarjapur,Bangalore,12.915086,77.681721
+prop_446,3 BHK Apartment in Sarjapur,apartment,7953998,1222,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.908237,77.660475
+prop_447,4 BHK Apartment in Bellandur,apartment,10988184,1412,4,"Random Street, Bellandur",Bellandur,Bangalore,12.923152,77.681082
+prop_448,3 BHK Apartment in Sarjapur,apartment,7287250,1030,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.917974,77.688828
+prop_449,4 BHK Apartment in Sarjapur,apartment,11594300,1633,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.93217,77.684074
+prop_450,4 BHK Apartment in Whitefield,apartment,11049056,1418,4,"Random Street, Whitefield",Whitefield,Bangalore,12.963824,77.759179
+prop_451,3 BHK Apartment in Hebbal,apartment,11676868,1316,3,"Random Street, Hebbal",Hebbal,Bangalore,13.0313,77.596856
+prop_452,3 BHK Apartment in HSR Layout,apartment,9327522,1114,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.926591,77.640222
+prop_453,4 BHK Apartment in Marathahalli,apartment,8545560,1416,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.966743,77.711526
+prop_454,3 BHK Apartment in Marathahalli,apartment,7791355,1105,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.945034,77.713425
+prop_455,3 BHK Apartment in Sarjapur,apartment,8360887,1229,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.93746,77.68607
+prop_456,4 BHK Apartment in Whitefield,apartment,10786500,1692,4,"Random Street, Whitefield",Whitefield,Bangalore,12.960848,77.752882
+prop_457,3 BHK Apartment in Whitefield,apartment,10246941,1251,3,"Random Street, Whitefield",Whitefield,Bangalore,12.979748,77.755082
+prop_458,4 BHK Apartment in Hebbal,apartment,13562545,1657,4,"Random Street, Hebbal",Hebbal,Bangalore,13.02488,77.59361
+prop_459,4 BHK Apartment in Hebbal,apartment,11818536,1411,4,"Random Street, Hebbal",Hebbal,Bangalore,13.021897,77.612906
+prop_460,3 BHK Apartment in Electronic City,apartment,6337548,1212,3,"Random Street, Electronic City",Electronic City,Bangalore,12.834277,77.67356
+prop_461,3 BHK Apartment in Koramangala,apartment,12396711,1137,3,"Random Street, Koramangala",Koramangala,Bangalore,12.947645,77.631733
+prop_462,3 BHK Apartment in Whitefield,apartment,9187968,1136,3,"Random Street, Whitefield",Whitefield,Bangalore,12.956737,77.763688
+prop_463,4 BHK Apartment in Bellandur,apartment,10789625,1475,4,"Random Street, Bellandur",Bellandur,Bangalore,12.923702,77.664624
+prop_464,3 BHK Apartment in Koramangala,apartment,10333302,1126,3,"Random Street, Koramangala",Koramangala,Bangalore,12.938536,77.631254
+prop_465,3 BHK Apartment in Bellandur,apartment,9389533,1189,3,"Random Street, Bellandur",Bellandur,Bangalore,12.940177,77.689096
+prop_466,4 BHK Apartment in Hebbal,apartment,12763068,1572,4,"Random Street, Hebbal",Hebbal,Bangalore,13.028114,77.601999
+prop_467,3 BHK Apartment in Hebbal,apartment,12000664,1384,3,"Random Street, Hebbal",Hebbal,Bangalore,13.029214,77.596822
+prop_468,3 BHK Apartment in Whitefield,apartment,8904225,1255,3,"Random Street, Whitefield",Whitefield,Bangalore,12.956779,77.745279
+prop_469,4 BHK Apartment in Hebbal,apartment,11760112,1456,4,"Random Street, Hebbal",Hebbal,Bangalore,13.031293,77.603464
+prop_470,3 BHK Apartment in HSR Layout,apartment,10201546,1226,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.926885,77.656203
+prop_471,3 BHK Apartment in Electronic City,apartment,6721330,1078,3,"Random Street, Electronic City",Electronic City,Bangalore,12.85965,77.647719
+prop_472,3 BHK Apartment in Koramangala,apartment,11610394,1154,3,"Random Street, Koramangala",Koramangala,Bangalore,12.934921,77.610081
+prop_473,4 BHK Apartment in Jayanagar,apartment,14851890,1642,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.918524,77.593074
+prop_474,4 BHK Apartment in Hebbal,apartment,15373360,1744,4,"Random Street, Hebbal",Hebbal,Bangalore,13.02329,77.591632
+prop_475,2 BHK Apartment in Whitefield,apartment,7287584,928,2,"Random Street, Whitefield",Whitefield,Bangalore,12.973374,77.764187
+prop_476,4 BHK Apartment in Whitefield,apartment,10028200,1450,4,"Random Street, Whitefield",Whitefield,Bangalore,12.968541,77.740345
+prop_477,3 BHK Apartment in Koramangala,apartment,11046294,1134,3,"Random Street, Koramangala",Koramangala,Bangalore,12.940331,77.618395
+prop_478,3 BHK Apartment in Indiranagar,apartment,11866680,1108,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.981718,77.628632
+prop_479,3 BHK Apartment in HSR Layout,apartment,10389888,1392,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.914485,77.657632
+prop_480,3 BHK Apartment in Hebbal,apartment,9069270,1330,3,"Random Street, Hebbal",Hebbal,Bangalore,13.034326,77.593017
+prop_481,3 BHK Apartment in Bellandur,apartment,9154439,1337,3,"Random Street, Bellandur",Bellandur,Bangalore,12.925828,77.689615
+prop_482,4 BHK Apartment in Whitefield,apartment,10564356,1473,4,"Random Street, Whitefield",Whitefield,Bangalore,12.960691,77.738801
+prop_483,3 BHK Apartment in Whitefield,apartment,9769914,1386,3,"Random Street, Whitefield",Whitefield,Bangalore,12.966106,77.759615
+prop_484,2 BHK Apartment in HSR Layout,apartment,6914844,958,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.924372,77.64832
+prop_485,3 BHK Apartment in HSR Layout,apartment,10830398,1363,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.908927,77.644013
+prop_486,4 BHK Apartment in Sarjapur,apartment,9634002,1442,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.908237,77.664665
+prop_487,2 BHK Apartment in Electronic City,apartment,5354475,987,2,"Random Street, Electronic City",Electronic City,Bangalore,12.856947,77.662106
+prop_488,3 BHK Apartment in Jayanagar,apartment,11854092,1318,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.92436,77.583506
+prop_489,3 BHK Apartment in Marathahalli,apartment,7619890,1231,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.96633,77.709669
+prop_490,3 BHK Apartment in Jayanagar,apartment,11592791,1271,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.920984,77.581035
+prop_491,3 BHK Apartment in Whitefield,apartment,8647394,1102,3,"Random Street, Whitefield",Whitefield,Bangalore,12.967739,77.737442
+prop_492,4 BHK Apartment in Marathahalli,apartment,9995960,1636,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.953536,77.708465
+prop_493,3 BHK Apartment in Jayanagar,apartment,12915192,1308,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.934245,77.590129
+prop_494,4 BHK Apartment in Hebbal,apartment,13520650,1586,4,"Random Street, Hebbal",Hebbal,Bangalore,13.026118,77.583911
+prop_495,4 BHK Apartment in Whitefield,apartment,12198598,1583,4,"Random Street, Whitefield",Whitefield,Bangalore,12.964159,77.748458
+prop_496,3 BHK Apartment in Whitefield,apartment,9643680,1332,3,"Random Street, Whitefield",Whitefield,Bangalore,12.974293,77.761394
+prop_497,3 BHK Apartment in HSR Layout,apartment,10304230,1262,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.906339,77.656083
+prop_498,2 BHK Apartment in Indiranagar,apartment,10710788,916,2,"Random Street, Indiranagar",Indiranagar,Bangalore,12.984183,77.631408
+prop_499,4 BHK Apartment in Hebbal,apartment,11886128,1513,4,"Random Street, Hebbal",Hebbal,Bangalore,13.022608,77.600927
+prop_500,3 BHK Apartment in HSR Layout,apartment,9136380,1199,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900822,77.650759
+prop_501,4 BHK Apartment in Hebbal,apartment,13264974,1611,4,"Random Street, Hebbal",Hebbal,Bangalore,13.0493,77.584393
+prop_502,3 BHK Apartment in Koramangala,apartment,12647151,1317,3,"Random Street, Koramangala",Koramangala,Bangalore,12.933267,77.633923
+prop_503,3 BHK Apartment in Koramangala,apartment,11173298,1126,3,"Random Street, Koramangala",Koramangala,Bangalore,12.927922,77.617211
+prop_504,2 BHK Apartment in Koramangala,apartment,8003024,892,2,"Random Street, Koramangala",Koramangala,Bangalore,12.9221,77.629619
+prop_505,3 BHK Apartment in Marathahalli,apartment,6875583,1209,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.955727,77.695945
+prop_506,3 BHK Apartment in Hebbal,apartment,9320600,1160,3,"Random Street, Hebbal",Hebbal,Bangalore,13.021512,77.60258
+prop_507,3 BHK Apartment in Koramangala,apartment,9940320,1053,3,"Random Street, Koramangala",Koramangala,Bangalore,12.925165,77.621819
+prop_508,3 BHK Apartment in Jayanagar,apartment,11990368,1312,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.921375,77.583104
+prop_509,3 BHK Apartment in Indiranagar,apartment,14790006,1386,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.964698,77.646322
+prop_510,3 BHK Apartment in Indiranagar,apartment,14601576,1353,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.979097,77.63306
+prop_511,4 BHK Apartment in Whitefield,apartment,11503243,1511,4,"Random Street, Whitefield",Whitefield,Bangalore,12.95625,77.750085
+prop_512,3 BHK Apartment in Koramangala,apartment,10238981,1207,3,"Random Street, Koramangala",Koramangala,Bangalore,12.943125,77.613638
+prop_513,3 BHK Apartment in Koramangala,apartment,10371725,1261,3,"Random Street, Koramangala",Koramangala,Bangalore,12.949184,77.617644
+prop_514,3 BHK Apartment in Koramangala,apartment,11540790,1191,3,"Random Street, Koramangala",Koramangala,Bangalore,12.928879,77.632269
+prop_515,2 BHK Apartment in Jayanagar,apartment,9292212,873,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.927213,77.5815
+prop_516,4 BHK Apartment in Hebbal,apartment,11184243,1407,4,"Random Street, Hebbal",Hebbal,Bangalore,13.040072,77.58516
+prop_517,3 BHK Apartment in Marathahalli,apartment,8324074,1331,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.965119,77.692927
+prop_518,2 BHK Apartment in Koramangala,apartment,9028338,979,2,"Random Street, Koramangala",Koramangala,Bangalore,12.924413,77.636869
+prop_519,3 BHK Apartment in Marathahalli,apartment,8873128,1298,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.942844,77.701184
+prop_520,3 BHK Apartment in Whitefield,apartment,10421565,1289,3,"Random Street, Whitefield",Whitefield,Bangalore,12.977933,77.750195
+prop_521,2 BHK Apartment in Jayanagar,apartment,6034924,644,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.925439,77.57467
+prop_522,3 BHK Apartment in Whitefield,apartment,8773630,1159,3,"Random Street, Whitefield",Whitefield,Bangalore,12.959981,77.762221
+prop_523,3 BHK Apartment in Koramangala,apartment,13600192,1312,3,"Random Street, Koramangala",Koramangala,Bangalore,12.936104,77.632163
+prop_524,3 BHK Apartment in Electronic City,apartment,6406140,1290,3,"Random Street, Electronic City",Electronic City,Bangalore,12.831939,77.650645
+prop_525,4 BHK Apartment in Hebbal,apartment,12094412,1564,4,"Random Street, Hebbal",Hebbal,Bangalore,13.028274,77.591861
+prop_526,4 BHK Apartment in Bellandur,apartment,11923303,1567,4,"Random Street, Bellandur",Bellandur,Bangalore,12.924526,77.675428
+prop_527,3 BHK Apartment in Marathahalli,apartment,9425040,1384,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.951042,77.689798
+prop_528,3 BHK Apartment in Hebbal,apartment,9952960,1216,3,"Random Street, Hebbal",Hebbal,Bangalore,13.036417,77.587836
+prop_529,4 BHK Apartment in Jayanagar,apartment,13560951,1479,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.915795,77.580226
+prop_530,4 BHK Apartment in Hebbal,apartment,11420256,1412,4,"Random Street, Hebbal",Hebbal,Bangalore,13.043316,77.597806
+prop_531,2 BHK Apartment in Indiranagar,apartment,10417563,993,2,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960181,77.638695
+prop_532,4 BHK Apartment in Sarjapur,apartment,9749800,1450,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.923749,77.665251
+prop_533,3 BHK Apartment in Sarjapur,apartment,9312312,1272,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.918526,77.677775
+prop_534,4 BHK Apartment in Bellandur,apartment,13285888,1792,4,"Random Street, Bellandur",Bellandur,Bangalore,12.927481,77.678689
+prop_535,3 BHK Apartment in Indiranagar,apartment,14375564,1382,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.976686,77.634225
+prop_536,4 BHK Apartment in Sarjapur,apartment,8340849,1461,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.919704,77.688961
+prop_537,4 BHK Apartment in Hebbal,apartment,15397140,1707,4,"Random Street, Hebbal",Hebbal,Bangalore,13.031692,77.611343
+prop_538,4 BHK Apartment in Bellandur,apartment,9337020,1410,4,"Random Street, Bellandur",Bellandur,Bangalore,12.925789,77.685807
+prop_539,3 BHK Apartment in Sarjapur,apartment,9426132,1238,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.936221,77.664453
+prop_540,3 BHK Apartment in Koramangala,apartment,11560178,1253,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92899,77.632833
+prop_541,3 BHK Apartment in Indiranagar,apartment,10249050,1050,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.986871,77.651292
+prop_542,3 BHK Apartment in HSR Layout,apartment,10317027,1329,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.902192,77.659116
+prop_543,3 BHK Apartment in Electronic City,apartment,6451410,1085,3,"Random Street, Electronic City",Electronic City,Bangalore,12.840315,77.651802
+prop_544,3 BHK Apartment in Jayanagar,apartment,10019065,1015,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.932157,77.589033
+prop_545,3 BHK Apartment in Jayanagar,apartment,11922882,1394,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.931747,77.577319
+prop_546,4 BHK Apartment in Whitefield,apartment,11826630,1655,4,"Random Street, Whitefield",Whitefield,Bangalore,12.982591,77.752416
+prop_547,3 BHK Apartment in HSR Layout,apartment,9887850,1314,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.918485,77.654778
+prop_548,4 BHK Apartment in HSR Layout,apartment,11803848,1428,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.917802,77.652289
+prop_549,4 BHK Apartment in Indiranagar,apartment,16535758,1403,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.962261,77.636126
+prop_550,3 BHK Apartment in Indiranagar,apartment,15251526,1346,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.961386,77.64098
+prop_551,3 BHK Apartment in HSR Layout,apartment,9893356,1133,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.916676,77.632355
+prop_552,3 BHK Apartment in Bellandur,apartment,8368920,1260,3,"Random Street, Bellandur",Bellandur,Bangalore,12.918222,77.667702
+prop_553,3 BHK Apartment in Koramangala,apartment,10303891,1027,3,"Random Street, Koramangala",Koramangala,Bangalore,12.925566,77.620665
+prop_554,3 BHK Apartment in HSR Layout,apartment,7738879,1081,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.899603,77.659246
+prop_555,4 BHK Apartment in Hebbal,apartment,11903435,1601,4,"Random Street, Hebbal",Hebbal,Bangalore,13.04188,77.596323
+prop_556,3 BHK Apartment in Bellandur,apartment,8881600,1300,3,"Random Street, Bellandur",Bellandur,Bangalore,12.927295,77.663695
+prop_557,3 BHK Apartment in Sarjapur,apartment,7637315,1085,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.915308,77.679516
+prop_558,2 BHK Apartment in Jayanagar,apartment,8913240,945,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.932201,77.586667
+prop_559,4 BHK Apartment in Hebbal,apartment,15191592,1752,4,"Random Street, Hebbal",Hebbal,Bangalore,13.042806,77.598321
+prop_560,2 BHK Apartment in Electronic City,apartment,3759623,679,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839223,77.665331
+prop_561,3 BHK Apartment in Marathahalli,apartment,7520856,1068,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.965459,77.704515
+prop_562,3 BHK Apartment in Hebbal,apartment,10300527,1311,3,"Random Street, Hebbal",Hebbal,Bangalore,13.033682,77.608011
+prop_563,3 BHK Apartment in Hebbal,apartment,11771433,1347,3,"Random Street, Hebbal",Hebbal,Bangalore,13.049946,77.609687
+prop_564,3 BHK Apartment in Sarjapur,apartment,7206143,1099,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.91934,77.667351
+prop_565,3 BHK Apartment in Jayanagar,apartment,10137963,1221,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.927983,77.57964
+prop_566,4 BHK Apartment in Whitefield,apartment,16046436,1734,4,"Random Street, Whitefield",Whitefield,Bangalore,12.957318,77.747843
+prop_567,3 BHK Apartment in Sarjapur,apartment,7816486,1102,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.916179,77.681153
+prop_568,3 BHK Apartment in Sarjapur,apartment,8025464,1174,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.919321,77.662469
+prop_569,3 BHK Apartment in Hebbal,apartment,9937312,1232,3,"Random Street, Hebbal",Hebbal,Bangalore,13.034731,77.585626
+prop_570,3 BHK Apartment in Jayanagar,apartment,10854306,1182,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93557,77.587468
+prop_571,3 BHK Apartment in Jayanagar,apartment,12162208,1264,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.925425,77.579484
+prop_572,2 BHK Apartment in Electronic City,apartment,4417140,780,2,"Random Street, Electronic City",Electronic City,Bangalore,12.834017,77.64831
+prop_573,3 BHK Apartment in Hebbal,apartment,11741576,1372,3,"Random Street, Hebbal",Hebbal,Bangalore,13.043195,77.61267
+prop_574,3 BHK Apartment in Whitefield,apartment,9627220,1285,3,"Random Street, Whitefield",Whitefield,Bangalore,12.978431,77.752232
+prop_575,3 BHK Apartment in Marathahalli,apartment,7279572,1074,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.95663,77.705889
+prop_576,3 BHK Apartment in Koramangala,apartment,12576060,1260,3,"Random Street, Koramangala",Koramangala,Bangalore,12.931044,77.615369
+prop_577,4 BHK Apartment in Hebbal,apartment,11855754,1446,4,"Random Street, Hebbal",Hebbal,Bangalore,13.036221,77.587708
+prop_578,3 BHK Apartment in Jayanagar,apartment,11272959,1163,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939049,77.569021
+prop_579,3 BHK Apartment in Whitefield,apartment,10641150,1326,3,"Random Street, Whitefield",Whitefield,Bangalore,12.977873,77.745574
+prop_580,2 BHK Apartment in Electronic City,apartment,4809698,893,2,"Random Street, Electronic City",Electronic City,Bangalore,12.83115,77.651913
+prop_581,4 BHK Apartment in Koramangala,apartment,13871132,1468,4,"Random Street, Koramangala",Koramangala,Bangalore,12.928435,77.609607
+prop_582,3 BHK Apartment in HSR Layout,apartment,8487566,1114,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.909187,77.64225
+prop_583,4 BHK Apartment in Hebbal,apartment,12196220,1609,4,"Random Street, Hebbal",Hebbal,Bangalore,13.040619,77.587953
+prop_584,4 BHK Apartment in HSR Layout,apartment,12268386,1443,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.913135,77.642563
+prop_585,3 BHK Apartment in Koramangala,apartment,13139753,1243,3,"Random Street, Koramangala",Koramangala,Bangalore,12.925504,77.61325
+prop_586,2 BHK Apartment in Electronic City,apartment,5223948,916,2,"Random Street, Electronic City",Electronic City,Bangalore,12.859067,77.663461
+prop_587,2 BHK Apartment in Hebbal,apartment,8028900,990,2,"Random Street, Hebbal",Hebbal,Bangalore,13.047338,77.598166
+prop_588,4 BHK Apartment in HSR Layout,apartment,11592840,1492,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.898465,77.644961
+prop_589,3 BHK Apartment in HSR Layout,apartment,8418040,1145,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.91699,77.642706
+prop_590,4 BHK Apartment in Bellandur,apartment,10993065,1509,4,"Random Street, Bellandur",Bellandur,Bangalore,12.916679,77.674989
+prop_591,4 BHK Apartment in Indiranagar,apartment,16852164,1596,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.985028,77.655854
+prop_592,3 BHK Apartment in Electronic City,apartment,6723440,1145,3,"Random Street, Electronic City",Electronic City,Bangalore,12.858289,77.664091
+prop_593,3 BHK Apartment in Koramangala,apartment,10218730,1055,3,"Random Street, Koramangala",Koramangala,Bangalore,12.921392,77.638558
+prop_594,3 BHK Apartment in Bellandur,apartment,9716490,1358,3,"Random Street, Bellandur",Bellandur,Bangalore,12.922279,77.666908
+prop_595,3 BHK Apartment in Jayanagar,apartment,12244293,1247,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.935112,77.585095
+prop_596,4 BHK Apartment in Indiranagar,apartment,17209500,1650,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.963597,77.64759
+prop_597,2 BHK Apartment in Electronic City,apartment,6282692,988,2,"Random Street, Electronic City",Electronic City,Bangalore,12.852228,77.672161
+prop_598,2 BHK Apartment in Marathahalli,apartment,5705593,911,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.963768,77.701401
+prop_599,3 BHK Apartment in Bellandur,apartment,9099151,1147,3,"Random Street, Bellandur",Bellandur,Bangalore,12.923063,77.682009
+prop_600,3 BHK Apartment in Indiranagar,apartment,14040047,1393,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.965063,77.633174
+prop_601,5 BHK Apartment in Indiranagar,apartment,21476056,1946,5,"Random Street, Indiranagar",Indiranagar,Bangalore,12.965663,77.652528
+prop_602,4 BHK Apartment in HSR Layout,apartment,10928385,1437,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.921671,77.642086
+prop_603,3 BHK Apartment in Sarjapur,apartment,8038278,1062,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.923455,77.682202
+prop_604,3 BHK Apartment in Marathahalli,apartment,8834475,1275,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.962656,77.707019
+prop_605,4 BHK Apartment in Sarjapur,apartment,9917735,1415,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.913614,77.669852
+prop_606,3 BHK Apartment in Indiranagar,apartment,13417245,1215,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.969095,77.638663
+prop_607,4 BHK Apartment in Indiranagar,apartment,15422571,1467,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.979943,77.629363
+prop_608,3 BHK Apartment in Whitefield,apartment,8115228,1089,3,"Random Street, Whitefield",Whitefield,Bangalore,12.967151,77.739947
+prop_609,3 BHK Apartment in Hebbal,apartment,9580032,1232,3,"Random Street, Hebbal",Hebbal,Bangalore,13.030205,77.587311
+prop_610,3 BHK Apartment in Koramangala,apartment,10216962,1074,3,"Random Street, Koramangala",Koramangala,Bangalore,12.939678,77.615446
+prop_611,4 BHK Apartment in Whitefield,apartment,11545359,1509,4,"Random Street, Whitefield",Whitefield,Bangalore,12.966735,77.751375
+prop_612,4 BHK Apartment in HSR Layout,apartment,13389012,1742,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900733,77.648472
+prop_613,4 BHK Apartment in HSR Layout,apartment,12980628,1578,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.916096,77.64027
+prop_614,2 BHK Apartment in Koramangala,apartment,7181504,704,2,"Random Street, Koramangala",Koramangala,Bangalore,12.940997,77.625194
+prop_615,4 BHK Apartment in Hebbal,apartment,11582190,1422,4,"Random Street, Hebbal",Hebbal,Bangalore,13.040852,77.599566
+prop_616,5 BHK Apartment in Hebbal,apartment,16143750,1875,5,"Random Street, Hebbal",Hebbal,Bangalore,13.04158,77.591775
+prop_617,3 BHK Apartment in Koramangala,apartment,10367105,1093,3,"Random Street, Koramangala",Koramangala,Bangalore,12.925331,77.631136
+prop_618,3 BHK Apartment in Indiranagar,apartment,12194122,1306,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960215,77.643473
+prop_619,3 BHK Apartment in Sarjapur,apartment,6998376,1082,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.917831,77.660615
+prop_620,4 BHK Apartment in Hebbal,apartment,13028772,1682,4,"Random Street, Hebbal",Hebbal,Bangalore,13.021127,77.597792
+prop_621,2 BHK Apartment in Jayanagar,apartment,6555210,706,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.920823,77.593605
+prop_622,4 BHK Apartment in Bellandur,apartment,13137440,1747,4,"Random Street, Bellandur",Bellandur,Bangalore,12.916632,77.685953
+prop_623,3 BHK Apartment in Indiranagar,apartment,15852096,1392,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.977866,77.628163
+prop_624,2 BHK Apartment in Bellandur,apartment,5813366,962,2,"Random Street, Bellandur",Bellandur,Bangalore,12.921929,77.676799
+prop_625,3 BHK Apartment in Indiranagar,apartment,14271483,1201,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.958639,77.64227
+prop_626,3 BHK Apartment in Marathahalli,apartment,8376305,1337,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.969114,77.714117
+prop_627,3 BHK Apartment in Koramangala,apartment,10836019,1193,3,"Random Street, Koramangala",Koramangala,Bangalore,12.948453,77.617024
+prop_628,4 BHK Apartment in Whitefield,apartment,11888330,1502,4,"Random Street, Whitefield",Whitefield,Bangalore,12.967339,77.760166
+prop_629,3 BHK Apartment in Whitefield,apartment,10130159,1399,3,"Random Street, Whitefield",Whitefield,Bangalore,12.983765,77.75678
+prop_630,4 BHK Apartment in Whitefield,apartment,13452696,1647,4,"Random Street, Whitefield",Whitefield,Bangalore,12.972224,77.740515
+prop_631,3 BHK Apartment in Hebbal,apartment,10501056,1236,3,"Random Street, Hebbal",Hebbal,Bangalore,13.035001,77.608573
+prop_632,3 BHK Apartment in Whitefield,apartment,8896930,1355,3,"Random Street, Whitefield",Whitefield,Bangalore,12.956043,77.735617
+prop_633,2 BHK Apartment in Electronic City,apartment,3742146,786,2,"Random Street, Electronic City",Electronic City,Bangalore,12.842512,77.673025
+prop_634,3 BHK Apartment in Sarjapur,apartment,8151380,1129,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.921013,77.686053
+prop_635,3 BHK Apartment in HSR Layout,apartment,11597826,1266,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.924073,77.647992
+prop_636,3 BHK Apartment in Jayanagar,apartment,11009104,1084,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.938469,77.589193
+prop_637,3 BHK Apartment in Whitefield,apartment,8969116,1259,3,"Random Street, Whitefield",Whitefield,Bangalore,12.971442,77.764869
+prop_638,3 BHK Apartment in Jayanagar,apartment,11215428,1239,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.942808,77.582716
+prop_639,4 BHK Apartment in Bellandur,apartment,12030012,1566,4,"Random Street, Bellandur",Bellandur,Bangalore,12.944421,77.693134
+prop_640,4 BHK Apartment in HSR Layout,apartment,12557936,1616,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.91843,77.636232
+prop_641,3 BHK Apartment in Marathahalli,apartment,5896482,1137,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.946493,77.690513
+prop_642,3 BHK Apartment in HSR Layout,apartment,9123840,1280,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.917886,77.646504
+prop_643,2 BHK Apartment in Electronic City,apartment,3809120,716,2,"Random Street, Electronic City",Electronic City,Bangalore,12.85587,77.660414
+prop_644,3 BHK Apartment in Hebbal,apartment,11101464,1284,3,"Random Street, Hebbal",Hebbal,Bangalore,13.036629,77.601793
+prop_645,3 BHK Apartment in Koramangala,apartment,11709274,1126,3,"Random Street, Koramangala",Koramangala,Bangalore,12.948726,77.616014
+prop_646,2 BHK Apartment in Electronic City,apartment,5436354,902,2,"Random Street, Electronic City",Electronic City,Bangalore,12.848947,77.673558
+prop_647,3 BHK Apartment in Whitefield,apartment,10185773,1339,3,"Random Street, Whitefield",Whitefield,Bangalore,12.965558,77.751333
+prop_648,2 BHK Apartment in Electronic City,apartment,5148561,979,2,"Random Street, Electronic City",Electronic City,Bangalore,12.83654,77.651473
+prop_649,3 BHK Apartment in Hebbal,apartment,9414640,1370,3,"Random Street, Hebbal",Hebbal,Bangalore,13.048674,77.602423
+prop_650,3 BHK Apartment in Marathahalli,apartment,7535754,1086,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.949384,77.710266
+prop_651,3 BHK Apartment in Electronic City,apartment,8379607,1319,3,"Random Street, Electronic City",Electronic City,Bangalore,12.831233,77.66038
+prop_652,3 BHK Apartment in Electronic City,apartment,5735303,1127,3,"Random Street, Electronic City",Electronic City,Bangalore,12.857343,77.653806
+prop_653,3 BHK Apartment in HSR Layout,apartment,9201220,1145,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.902462,77.651708
+prop_654,3 BHK Apartment in Whitefield,apartment,10083288,1236,3,"Random Street, Whitefield",Whitefield,Bangalore,12.956206,77.737436
+prop_655,3 BHK Apartment in Koramangala,apartment,10304596,1132,3,"Random Street, Koramangala",Koramangala,Bangalore,12.922877,77.63305
+prop_656,2 BHK Apartment in Indiranagar,apartment,11084238,979,2,"Random Street, Indiranagar",Indiranagar,Bangalore,12.95945,77.641021
+prop_657,3 BHK Apartment in Electronic City,apartment,7806690,1270,3,"Random Street, Electronic City",Electronic City,Bangalore,12.841274,77.674558
+prop_658,4 BHK Apartment in Whitefield,apartment,10329936,1402,4,"Random Street, Whitefield",Whitefield,Bangalore,12.957125,77.764314
+prop_659,3 BHK Apartment in Indiranagar,apartment,11053518,1029,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.966812,77.641038
+prop_660,3 BHK Apartment in Sarjapur,apartment,5822696,1016,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.912966,77.682574
+prop_661,4 BHK Apartment in Whitefield,apartment,10684296,1462,4,"Random Street, Whitefield",Whitefield,Bangalore,12.965964,77.754673
+prop_662,3 BHK Apartment in Bellandur,apartment,6862209,1009,3,"Random Street, Bellandur",Bellandur,Bangalore,12.928765,77.674476
+prop_663,3 BHK Apartment in Koramangala,apartment,12741457,1273,3,"Random Street, Koramangala",Koramangala,Bangalore,12.929486,77.631684
+prop_664,3 BHK Apartment in Sarjapur,apartment,8552250,1350,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.916348,77.669063
+prop_665,3 BHK Apartment in Hebbal,apartment,12203928,1368,3,"Random Street, Hebbal",Hebbal,Bangalore,13.038675,77.61233
+prop_666,2 BHK Apartment in Electronic City,apartment,5882228,946,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839918,77.671884
+prop_667,4 BHK Apartment in HSR Layout,apartment,12880916,1684,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.911489,77.636534
+prop_668,2 BHK Apartment in Electronic City,apartment,4491856,848,2,"Random Street, Electronic City",Electronic City,Bangalore,12.842915,77.673881
+prop_669,2 BHK Apartment in Indiranagar,apartment,9994266,969,2,"Random Street, Indiranagar",Indiranagar,Bangalore,12.972154,77.629193
+prop_670,4 BHK Apartment in Marathahalli,apartment,10238624,1496,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.956535,77.69668
+prop_671,1 BHK Apartment in Electronic City,apartment,3288152,568,1,"Random Street, Electronic City",Electronic City,Bangalore,12.830595,77.673434
+prop_672,3 BHK Apartment in Whitefield,apartment,7059021,1041,3,"Random Street, Whitefield",Whitefield,Bangalore,12.964073,77.763954
+prop_673,3 BHK Apartment in Whitefield,apartment,7790783,1267,3,"Random Street, Whitefield",Whitefield,Bangalore,12.966678,77.7629
+prop_674,3 BHK Apartment in Whitefield,apartment,9691991,1289,3,"Random Street, Whitefield",Whitefield,Bangalore,12.9816,77.75293
+prop_675,3 BHK Apartment in Koramangala,apartment,11836110,1209,3,"Random Street, Koramangala",Koramangala,Bangalore,12.923453,77.626502
+prop_676,3 BHK Apartment in HSR Layout,apartment,8134330,1003,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.89934,77.647311
+prop_677,2 BHK Apartment in Marathahalli,apartment,6564831,973,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.955669,77.690493
+prop_678,3 BHK Apartment in Sarjapur,apartment,10262024,1369,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.934447,77.682139
+prop_679,3 BHK Apartment in Indiranagar,apartment,11044464,1032,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.986641,77.641497
+prop_680,2 BHK Apartment in Koramangala,apartment,8917140,898,2,"Random Street, Koramangala",Koramangala,Bangalore,12.930501,77.616054
+prop_681,4 BHK Apartment in Bellandur,apartment,12121206,1622,4,"Random Street, Bellandur",Bellandur,Bangalore,12.929859,77.689419
+prop_682,2 BHK Apartment in Koramangala,apartment,9456699,959,2,"Random Street, Koramangala",Koramangala,Bangalore,12.941397,77.629999
+prop_683,3 BHK Apartment in HSR Layout,apartment,8688190,1190,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.912426,77.633098
+prop_684,3 BHK Apartment in HSR Layout,apartment,10618944,1344,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.902011,77.642724
+prop_685,3 BHK Apartment in HSR Layout,apartment,11447910,1227,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.898881,77.642352
+prop_686,3 BHK Apartment in Bellandur,apartment,7884547,1133,3,"Random Street, Bellandur",Bellandur,Bangalore,12.941755,77.687074
+prop_687,3 BHK Apartment in Whitefield,apartment,7957020,1345,3,"Random Street, Whitefield",Whitefield,Bangalore,12.971611,77.752312
+prop_688,2 BHK Apartment in Koramangala,apartment,8215424,896,2,"Random Street, Koramangala",Koramangala,Bangalore,12.939033,77.631897
+prop_689,4 BHK Apartment in Indiranagar,apartment,18519224,1669,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.976467,77.652293
+prop_690,4 BHK Apartment in Hebbal,apartment,12945783,1779,4,"Random Street, Hebbal",Hebbal,Bangalore,13.04278,77.583986
+prop_691,2 BHK Apartment in Indiranagar,apartment,11186408,991,2,"Random Street, Indiranagar",Indiranagar,Bangalore,12.973202,77.639516
+prop_692,3 BHK Apartment in Electronic City,apartment,5426482,1058,3,"Random Street, Electronic City",Electronic City,Bangalore,12.843469,77.652536
+prop_693,3 BHK Apartment in HSR Layout,apartment,7154595,1017,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.926537,77.636338
+prop_694,2 BHK Apartment in Koramangala,apartment,7875216,816,2,"Random Street, Koramangala",Koramangala,Bangalore,12.927381,77.636965
+prop_695,3 BHK Apartment in Jayanagar,apartment,9531863,1121,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.934767,77.568129
+prop_696,4 BHK Apartment in Sarjapur,apartment,9437036,1414,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.93758,77.667714
+prop_697,3 BHK Apartment in Marathahalli,apartment,7119252,1134,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.956445,77.686113
+prop_698,2 BHK Apartment in Koramangala,apartment,9100000,1000,2,"Random Street, Koramangala",Koramangala,Bangalore,12.923556,77.616426
+prop_699,3 BHK Apartment in Sarjapur,apartment,8918532,1269,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.918636,77.683576
+prop_700,3 BHK Apartment in Jayanagar,apartment,10021044,1068,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.938612,77.59098
+prop_701,2 BHK Apartment in Marathahalli,apartment,5403630,843,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.958004,77.706103
+prop_702,3 BHK Apartment in Koramangala,apartment,9892614,1074,3,"Random Street, Koramangala",Koramangala,Bangalore,12.927567,77.617591
+prop_703,3 BHK Apartment in Sarjapur,apartment,6982080,1120,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.915961,77.660329
+prop_704,3 BHK Apartment in Hebbal,apartment,10273493,1271,3,"Random Street, Hebbal",Hebbal,Bangalore,13.040604,77.603278
+prop_705,3 BHK Apartment in Whitefield,apartment,9205326,1269,3,"Random Street, Whitefield",Whitefield,Bangalore,12.95844,77.736121
+prop_706,3 BHK Apartment in Koramangala,apartment,12897885,1155,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92512,77.637356
+prop_707,2 BHK Apartment in Jayanagar,apartment,8719584,976,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939233,77.571884
+prop_708,4 BHK Apartment in Marathahalli,apartment,10642347,1431,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.942782,77.70173
+prop_709,3 BHK Apartment in Jayanagar,apartment,11359173,1169,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.938383,77.589878
+prop_710,3 BHK Apartment in Jayanagar,apartment,10104094,1078,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.924135,77.579875
+prop_711,4 BHK Apartment in Hebbal,apartment,12708120,1644,4,"Random Street, Hebbal",Hebbal,Bangalore,13.040856,77.602448
+prop_712,4 BHK Apartment in Bellandur,apartment,9328830,1433,4,"Random Street, Bellandur",Bellandur,Bangalore,12.925094,77.671762
+prop_713,4 BHK Apartment in Marathahalli,apartment,9339222,1501,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.943306,77.707948
+prop_714,2 BHK Apartment in Marathahalli,apartment,5814375,875,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.970825,77.690887
+prop_715,3 BHK Apartment in Marathahalli,apartment,8987838,1362,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.970211,77.714638
+prop_716,4 BHK Apartment in Indiranagar,apartment,17062896,1488,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.958578,77.643583
+prop_717,3 BHK Apartment in Electronic City,apartment,6079225,1009,3,"Random Street, Electronic City",Electronic City,Bangalore,12.84781,77.671965
+prop_718,3 BHK Apartment in Marathahalli,apartment,6079538,1109,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.950674,77.697926
+prop_719,4 BHK Apartment in Indiranagar,apartment,13846050,1450,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.961934,77.628247
+prop_720,4 BHK Apartment in Whitefield,apartment,11917224,1468,4,"Random Street, Whitefield",Whitefield,Bangalore,12.976599,77.741559
+prop_721,2 BHK Apartment in Koramangala,apartment,6546042,723,2,"Random Street, Koramangala",Koramangala,Bangalore,12.944074,77.633444
+prop_722,3 BHK Apartment in Indiranagar,apartment,11577440,1120,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.977989,77.633385
+prop_723,3 BHK Apartment in Marathahalli,apartment,7896250,1250,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.954051,77.707553
+prop_724,3 BHK Apartment in Koramangala,apartment,10119970,1087,3,"Random Street, Koramangala",Koramangala,Bangalore,12.937413,77.638903
+prop_725,3 BHK Apartment in Whitefield,apartment,8201464,1366,3,"Random Street, Whitefield",Whitefield,Bangalore,12.980479,77.738975
+prop_726,3 BHK Apartment in Indiranagar,apartment,13764856,1288,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.981912,77.647746
+prop_727,4 BHK Apartment in Sarjapur,apartment,9549672,1464,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.937212,77.667826
+prop_728,2 BHK Apartment in Electronic City,apartment,3645684,966,2,"Random Street, Electronic City",Electronic City,Bangalore,12.859843,77.661479
+prop_729,2 BHK Apartment in Electronic City,apartment,4952475,783,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839127,77.66813
+prop_730,3 BHK Apartment in Marathahalli,apartment,5808877,1051,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.966995,77.709422
+prop_731,4 BHK Apartment in Whitefield,apartment,9545720,1429,4,"Random Street, Whitefield",Whitefield,Bangalore,12.955296,77.76431
+prop_732,3 BHK Apartment in Indiranagar,apartment,12578742,1221,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960291,77.640107
+prop_733,2 BHK Apartment in Marathahalli,apartment,4328595,645,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.962466,77.695466
+prop_734,3 BHK Apartment in Marathahalli,apartment,7488800,1184,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.951523,77.699652
+prop_735,4 BHK Apartment in Sarjapur,apartment,10862164,1702,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.936801,77.662223
+prop_736,2 BHK Apartment in Jayanagar,apartment,6894297,743,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.921872,77.594347
+prop_737,3 BHK Apartment in Electronic City,apartment,5128110,1053,3,"Random Street, Electronic City",Electronic City,Bangalore,12.843259,77.658082
+prop_738,2 BHK Apartment in Electronic City,apartment,4056436,653,2,"Random Street, Electronic City",Electronic City,Bangalore,12.830205,77.645701
+prop_739,1 BHK Apartment in Electronic City,apartment,2939130,578,1,"Random Street, Electronic City",Electronic City,Bangalore,12.853612,77.652658
+prop_740,3 BHK Apartment in Koramangala,apartment,10632274,1069,3,"Random Street, Koramangala",Koramangala,Bangalore,12.938009,77.629419
+prop_741,3 BHK Apartment in Koramangala,apartment,10496084,1108,3,"Random Street, Koramangala",Koramangala,Bangalore,12.946899,77.639234
+prop_742,3 BHK Apartment in Hebbal,apartment,11457552,1392,3,"Random Street, Hebbal",Hebbal,Bangalore,13.048938,77.607863
+prop_743,2 BHK Apartment in Jayanagar,apartment,7892885,913,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.942381,77.582997
+prop_744,3 BHK Apartment in Electronic City,apartment,7311460,1220,3,"Random Street, Electronic City",Electronic City,Bangalore,12.851343,77.654889
+prop_745,3 BHK Apartment in Electronic City,apartment,5069238,1007,3,"Random Street, Electronic City",Electronic City,Bangalore,12.838326,77.673956
+prop_746,3 BHK Apartment in Marathahalli,apartment,9139012,1318,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.955041,77.711477
+prop_747,3 BHK Apartment in Whitefield,apartment,9746120,1336,3,"Random Street, Whitefield",Whitefield,Bangalore,12.963495,77.750537
+prop_748,4 BHK Apartment in Marathahalli,apartment,8136054,1413,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.964987,77.70576
+prop_749,4 BHK Apartment in Indiranagar,apartment,19183496,1676,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960019,77.641026
+prop_750,3 BHK Apartment in Koramangala,apartment,11626776,1224,3,"Random Street, Koramangala",Koramangala,Bangalore,12.923183,77.638958
+prop_751,3 BHK Apartment in Koramangala,apartment,11974935,1239,3,"Random Street, Koramangala",Koramangala,Bangalore,12.942589,77.63127
+prop_752,4 BHK Apartment in Hebbal,apartment,13962300,1650,4,"Random Street, Hebbal",Hebbal,Bangalore,13.03912,77.588925
+prop_753,2 BHK Apartment in Sarjapur,apartment,5463955,749,2,"Random Street, Sarjapur",Sarjapur,Bangalore,12.936788,77.671911
+prop_754,3 BHK Apartment in Marathahalli,apartment,8710894,1202,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.956506,77.702863
+prop_755,3 BHK Apartment in Hebbal,apartment,10589400,1325,3,"Random Street, Hebbal",Hebbal,Bangalore,13.042921,77.605967
+prop_756,3 BHK Apartment in Whitefield,apartment,8286096,1274,3,"Random Street, Whitefield",Whitefield,Bangalore,12.980064,77.748605
+prop_757,2 BHK Apartment in Marathahalli,apartment,6240289,869,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.965153,77.689989
+prop_758,3 BHK Apartment in Indiranagar,apartment,12487770,1215,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.981545,77.656062
+prop_759,3 BHK Apartment in Electronic City,apartment,4418080,1060,3,"Random Street, Electronic City",Electronic City,Bangalore,12.843102,77.667607
+prop_760,2 BHK Apartment in Bellandur,apartment,6930108,978,2,"Random Street, Bellandur",Bellandur,Bangalore,12.936222,77.676101
+prop_761,3 BHK Apartment in Hebbal,apartment,11581368,1266,3,"Random Street, Hebbal",Hebbal,Bangalore,13.044286,77.606532
+prop_762,3 BHK Apartment in Koramangala,apartment,9778820,1010,3,"Random Street, Koramangala",Koramangala,Bangalore,12.941131,77.639487
+prop_763,3 BHK Apartment in Whitefield,apartment,10171980,1380,3,"Random Street, Whitefield",Whitefield,Bangalore,12.960739,77.751731
+prop_764,3 BHK Apartment in Sarjapur,apartment,9186528,1299,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.92274,77.660671
+prop_765,2 BHK Apartment in Bellandur,apartment,7809750,975,2,"Random Street, Bellandur",Bellandur,Bangalore,12.935955,77.68259
+prop_766,4 BHK Apartment in Jayanagar,apartment,11736816,1456,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.942938,77.56823
+prop_767,3 BHK Apartment in Sarjapur,apartment,8118900,1164,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.933722,77.67651
+prop_768,2 BHK Apartment in Jayanagar,apartment,9371756,934,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.915695,77.595551
+prop_769,3 BHK Apartment in HSR Layout,apartment,10674624,1272,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.904468,77.652708
+prop_770,3 BHK Apartment in Marathahalli,apartment,6772360,1064,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.942109,77.703955
+prop_771,4 BHK Apartment in Bellandur,apartment,12206736,1646,4,"Random Street, Bellandur",Bellandur,Bangalore,12.916877,77.689338
+prop_772,2 BHK Apartment in Electronic City,apartment,4571479,803,2,"Random Street, Electronic City",Electronic City,Bangalore,12.847681,77.657707
+prop_773,3 BHK Apartment in Jayanagar,apartment,12570282,1334,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939071,77.580463
+prop_774,4 BHK Apartment in Hebbal,apartment,11699205,1407,4,"Random Street, Hebbal",Hebbal,Bangalore,13.0459,77.610573
+prop_775,3 BHK Apartment in Sarjapur,apartment,8174198,1294,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.928791,77.664813
+prop_776,3 BHK Apartment in Koramangala,apartment,11037312,1248,3,"Random Street, Koramangala",Koramangala,Bangalore,12.930662,77.628552
+prop_777,4 BHK Apartment in Hebbal,apartment,14101083,1611,4,"Random Street, Hebbal",Hebbal,Bangalore,13.038142,77.603814
+prop_778,2 BHK Apartment in Koramangala,apartment,8262452,869,2,"Random Street, Koramangala",Koramangala,Bangalore,12.923632,77.613099
+prop_779,2 BHK Apartment in Koramangala,apartment,7667805,835,2,"Random Street, Koramangala",Koramangala,Bangalore,12.937967,77.622642
+prop_780,3 BHK Apartment in HSR Layout,apartment,9479580,1166,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.901005,77.657925
+prop_781,3 BHK Apartment in Marathahalli,apartment,7085995,1049,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.964057,77.690278
+prop_782,4 BHK Apartment in Indiranagar,apartment,17597106,1511,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.965564,77.649822
+prop_783,3 BHK Apartment in Marathahalli,apartment,7642921,1067,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.948409,77.708147
+prop_784,3 BHK Apartment in HSR Layout,apartment,9868012,1127,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900022,77.640183
+prop_785,4 BHK Apartment in Sarjapur,apartment,8912280,1576,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.929062,77.689988
+prop_786,3 BHK Apartment in HSR Layout,apartment,8452339,1081,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.926975,77.637291
+prop_787,3 BHK Apartment in Electronic City,apartment,6535620,1170,3,"Random Street, Electronic City",Electronic City,Bangalore,12.851845,77.67345
+prop_788,3 BHK Apartment in Marathahalli,apartment,7718792,1172,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.945266,77.711459
+prop_789,3 BHK Apartment in Marathahalli,apartment,8555228,1397,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.95923,77.70632
+prop_790,3 BHK Apartment in Indiranagar,apartment,14215696,1369,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.981297,77.63306
+prop_791,3 BHK Apartment in Marathahalli,apartment,6831909,1071,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.967792,77.697441
+prop_792,3 BHK Apartment in Bellandur,apartment,10033272,1263,3,"Random Street, Bellandur",Bellandur,Bangalore,12.943284,77.675856
+prop_793,3 BHK Apartment in Koramangala,apartment,9941265,1047,3,"Random Street, Koramangala",Koramangala,Bangalore,12.929728,77.632398
+prop_794,3 BHK Apartment in Sarjapur,apartment,9472287,1201,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.919403,77.661094
+prop_795,3 BHK Apartment in Marathahalli,apartment,5843676,1124,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.966603,77.712125
+prop_796,3 BHK Apartment in Indiranagar,apartment,11511962,1078,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.970339,77.628561
+prop_797,3 BHK Apartment in Hebbal,apartment,10734462,1277,3,"Random Street, Hebbal",Hebbal,Bangalore,13.030555,77.588762
+prop_798,3 BHK Apartment in Indiranagar,apartment,15267203,1337,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.981929,77.651375
+prop_799,3 BHK Apartment in Marathahalli,apartment,6640940,1115,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.954881,77.713126
+prop_800,3 BHK Apartment in Hebbal,apartment,8106198,1011,3,"Random Street, Hebbal",Hebbal,Bangalore,13.035711,77.60286
+prop_801,3 BHK Apartment in Hebbal,apartment,11209500,1125,3,"Random Street, Hebbal",Hebbal,Bangalore,13.03781,77.586166
+prop_802,4 BHK Apartment in Sarjapur,apartment,9671524,1543,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.930806,77.677745
+prop_803,3 BHK Apartment in HSR Layout,apartment,10870277,1331,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.917988,77.643963
+prop_804,4 BHK Apartment in Bellandur,apartment,11596230,1566,4,"Random Street, Bellandur",Bellandur,Bangalore,12.932012,77.66906
+prop_805,3 BHK Apartment in Hebbal,apartment,9296034,1342,3,"Random Street, Hebbal",Hebbal,Bangalore,13.027619,77.602016
+prop_806,3 BHK Apartment in Indiranagar,apartment,11199450,1137,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.959553,77.629341
+prop_807,3 BHK Apartment in Whitefield,apartment,9785420,1346,3,"Random Street, Whitefield",Whitefield,Bangalore,12.970288,77.744892
+prop_808,3 BHK Apartment in Bellandur,apartment,8634444,1092,3,"Random Street, Bellandur",Bellandur,Bangalore,12.941101,77.682477
+prop_809,4 BHK Apartment in Bellandur,apartment,9496660,1409,4,"Random Street, Bellandur",Bellandur,Bangalore,12.929302,77.678716
+prop_810,2 BHK Apartment in Electronic City,apartment,5735180,995,2,"Random Street, Electronic City",Electronic City,Bangalore,12.830865,77.669685
+prop_811,3 BHK Apartment in Electronic City,apartment,6409347,1239,3,"Random Street, Electronic City",Electronic City,Bangalore,12.833637,77.645592
+prop_812,3 BHK Apartment in Jayanagar,apartment,9193270,1055,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.914921,77.593538
+prop_813,3 BHK Apartment in Koramangala,apartment,10599168,1184,3,"Random Street, Koramangala",Koramangala,Bangalore,12.940198,77.638882
+prop_814,3 BHK Apartment in Whitefield,apartment,8298468,1062,3,"Random Street, Whitefield",Whitefield,Bangalore,12.977996,77.748579
+prop_815,1 BHK Apartment in Koramangala,apartment,4873500,500,1,"Random Street, Koramangala",Koramangala,Bangalore,12.946569,77.623906
+prop_816,3 BHK Apartment in Jayanagar,apartment,11777920,1232,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.939542,77.57
+prop_817,2 BHK Apartment in Hebbal,apartment,7066736,886,2,"Random Street, Hebbal",Hebbal,Bangalore,13.030284,77.607466
+prop_818,2 BHK Apartment in Electronic City,apartment,5760864,964,2,"Random Street, Electronic City",Electronic City,Bangalore,12.835808,77.651537
+prop_819,3 BHK Apartment in Koramangala,apartment,12310266,1226,3,"Random Street, Koramangala",Koramangala,Bangalore,12.937839,77.61292
+prop_820,4 BHK Apartment in Hebbal,apartment,11526172,1519,4,"Random Street, Hebbal",Hebbal,Bangalore,13.025751,77.603271
+prop_821,2 BHK Apartment in Marathahalli,apartment,6283360,908,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.942474,77.692462
+prop_822,2 BHK Apartment in Koramangala,apartment,8215896,884,2,"Random Street, Koramangala",Koramangala,Bangalore,12.9304,77.619665
+prop_823,3 BHK Apartment in Hebbal,apartment,11304384,1294,3,"Random Street, Hebbal",Hebbal,Bangalore,13.033994,77.584311
+prop_824,4 BHK Apartment in Indiranagar,apartment,16464420,1460,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.972111,77.636491
+prop_825,4 BHK Apartment in Bellandur,apartment,12498948,1701,4,"Random Street, Bellandur",Bellandur,Bangalore,12.933156,77.675053
+prop_826,3 BHK Apartment in HSR Layout,apartment,10591448,1148,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.906796,77.650039
+prop_827,3 BHK Apartment in Electronic City,apartment,4497276,1036,3,"Random Street, Electronic City",Electronic City,Bangalore,12.835803,77.664689
+prop_828,4 BHK Apartment in Whitefield,apartment,11270584,1412,4,"Random Street, Whitefield",Whitefield,Bangalore,12.96277,77.757975
+prop_829,4 BHK Apartment in Whitefield,apartment,11820168,1479,4,"Random Street, Whitefield",Whitefield,Bangalore,12.958093,77.752973
+prop_830,3 BHK Apartment in Hebbal,apartment,8934324,1022,3,"Random Street, Hebbal",Hebbal,Bangalore,13.046846,77.599499
+prop_831,3 BHK Apartment in Koramangala,apartment,10534524,1092,3,"Random Street, Koramangala",Koramangala,Bangalore,12.942557,77.638962
+prop_832,3 BHK Apartment in Sarjapur,apartment,8090920,1340,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.937284,77.686098
+prop_833,3 BHK Apartment in Whitefield,apartment,10614040,1390,3,"Random Street, Whitefield",Whitefield,Bangalore,12.960768,77.746482
+prop_834,3 BHK Apartment in HSR Layout,apartment,8050230,1035,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.922069,77.648914
+prop_835,4 BHK Apartment in Hebbal,apartment,13677339,1527,4,"Random Street, Hebbal",Hebbal,Bangalore,13.037473,77.587914
+prop_836,4 BHK Apartment in Hebbal,apartment,16077696,1788,4,"Random Street, Hebbal",Hebbal,Bangalore,13.021812,77.59641
+prop_837,4 BHK Apartment in Whitefield,apartment,10755696,1428,4,"Random Street, Whitefield",Whitefield,Bangalore,12.98449,77.750121
+prop_838,3 BHK Apartment in Whitefield,apartment,10223950,1282,3,"Random Street, Whitefield",Whitefield,Bangalore,12.975754,77.759128
+prop_839,3 BHK Apartment in Bellandur,apartment,10574088,1356,3,"Random Street, Bellandur",Bellandur,Bangalore,12.925606,77.671673
+prop_840,4 BHK Apartment in Indiranagar,apartment,16860690,1622,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.981233,77.634287
+prop_841,3 BHK Apartment in Indiranagar,apartment,14586000,1375,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.976309,77.652073
+prop_842,3 BHK Apartment in Indiranagar,apartment,14544009,1269,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.967285,77.641343
+prop_843,3 BHK Apartment in Bellandur,apartment,7296742,1154,3,"Random Street, Bellandur",Bellandur,Bangalore,12.919131,77.664366
+prop_844,2 BHK Apartment in HSR Layout,apartment,7229121,883,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.898581,77.647736
+prop_845,3 BHK Apartment in Bellandur,apartment,9619548,1361,3,"Random Street, Bellandur",Bellandur,Bangalore,12.936026,77.67875
+prop_846,4 BHK Apartment in Hebbal,apartment,12691448,1694,4,"Random Street, Hebbal",Hebbal,Bangalore,13.028081,77.613
+prop_847,4 BHK Apartment in Koramangala,apartment,13389985,1505,4,"Random Street, Koramangala",Koramangala,Bangalore,12.922515,77.635535
+prop_848,4 BHK Apartment in HSR Layout,apartment,12634856,1612,4,"Random Street, HSR Layout",HSR Layout,Bangalore,12.918469,77.63949
+prop_849,3 BHK Apartment in Hebbal,apartment,10160836,1316,3,"Random Street, Hebbal",Hebbal,Bangalore,13.024185,77.584664
+prop_850,2 BHK Apartment in Electronic City,apartment,4491936,864,2,"Random Street, Electronic City",Electronic City,Bangalore,12.830825,77.665868
+prop_851,4 BHK Apartment in Hebbal,apartment,15021600,1760,4,"Random Street, Hebbal",Hebbal,Bangalore,13.041808,77.601602
+prop_852,4 BHK Apartment in Hebbal,apartment,13715100,1555,4,"Random Street, Hebbal",Hebbal,Bangalore,13.033818,77.605741
+prop_853,4 BHK Apartment in Whitefield,apartment,10190140,1445,4,"Random Street, Whitefield",Whitefield,Bangalore,12.977917,77.750534
+prop_854,2 BHK Apartment in Electronic City,apartment,4155550,775,2,"Random Street, Electronic City",Electronic City,Bangalore,12.849337,77.65314
+prop_855,3 BHK Apartment in Bellandur,apartment,8439336,1317,3,"Random Street, Bellandur",Bellandur,Bangalore,12.925174,77.680322
+prop_856,3 BHK Apartment in Hebbal,apartment,8598316,1076,3,"Random Street, Hebbal",Hebbal,Bangalore,13.030548,77.611194
+prop_857,4 BHK Apartment in Whitefield,apartment,10816560,1448,4,"Random Street, Whitefield",Whitefield,Bangalore,12.960633,77.764034
+prop_858,3 BHK Apartment in Jayanagar,apartment,10497872,1232,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.917868,77.583935
+prop_859,2 BHK Apartment in Jayanagar,apartment,8210609,913,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.934953,77.576079
+prop_860,3 BHK Apartment in Koramangala,apartment,10688405,1183,3,"Random Street, Koramangala",Koramangala,Bangalore,12.947749,77.628663
+prop_861,3 BHK Apartment in Whitefield,apartment,9174840,1212,3,"Random Street, Whitefield",Whitefield,Bangalore,12.975646,77.757968
+prop_862,3 BHK Apartment in HSR Layout,apartment,9787071,1291,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.922399,77.655239
+prop_863,3 BHK Apartment in Jayanagar,apartment,9827708,1114,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.94339,77.570421
+prop_864,3 BHK Apartment in Indiranagar,apartment,11934272,1088,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.966363,77.638526
+prop_865,3 BHK Apartment in Jayanagar,apartment,11296530,1290,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.916356,77.571378
+prop_866,4 BHK Apartment in Bellandur,apartment,11602344,1599,4,"Random Street, Bellandur",Bellandur,Bangalore,12.939756,77.691205
+prop_867,2 BHK Apartment in Koramangala,apartment,9241155,945,2,"Random Street, Koramangala",Koramangala,Bangalore,12.924375,77.634899
+prop_868,3 BHK Apartment in Jayanagar,apartment,11545026,1322,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.940446,77.583966
+prop_869,4 BHK Apartment in Bellandur,apartment,12098541,1461,4,"Random Street, Bellandur",Bellandur,Bangalore,12.92061,77.685253
+prop_870,4 BHK Apartment in Bellandur,apartment,9894930,1453,4,"Random Street, Bellandur",Bellandur,Bangalore,12.933103,77.684576
+prop_871,3 BHK Apartment in Jayanagar,apartment,11025050,1150,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.935929,77.594365
+prop_872,3 BHK Apartment in HSR Layout,apartment,8744460,1020,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.905272,77.631126
+prop_873,3 BHK Apartment in Bellandur,apartment,9685215,1233,3,"Random Street, Bellandur",Bellandur,Bangalore,12.926409,77.685362
+prop_874,3 BHK Apartment in Jayanagar,apartment,11792088,1386,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93116,77.588
+prop_875,4 BHK Apartment in Hebbal,apartment,12510120,1484,4,"Random Street, Hebbal",Hebbal,Bangalore,13.025164,77.603485
+prop_876,2 BHK Apartment in Sarjapur,apartment,6230352,879,2,"Random Street, Sarjapur",Sarjapur,Bangalore,12.915866,77.669525
+prop_877,3 BHK Apartment in Whitefield,apartment,8751930,1210,3,"Random Street, Whitefield",Whitefield,Bangalore,12.9832,77.764484
+prop_878,3 BHK Apartment in Hebbal,apartment,10604660,1180,3,"Random Street, Hebbal",Hebbal,Bangalore,13.044602,77.601717
+prop_879,3 BHK Apartment in Indiranagar,apartment,12262024,1112,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.978253,77.634954
+prop_880,4 BHK Apartment in Marathahalli,apartment,10670220,1530,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.944552,77.712617
+prop_881,4 BHK Apartment in Hebbal,apartment,13772556,1722,4,"Random Street, Hebbal",Hebbal,Bangalore,13.042696,77.60812
+prop_882,2 BHK Apartment in Electronic City,apartment,5095650,966,2,"Random Street, Electronic City",Electronic City,Bangalore,12.845851,77.661592
+prop_883,4 BHK Apartment in Indiranagar,apartment,14599940,1564,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.960741,77.634772
+prop_884,3 BHK Apartment in Whitefield,apartment,8038316,1081,3,"Random Street, Whitefield",Whitefield,Bangalore,12.970236,77.742129
+prop_885,4 BHK Apartment in Indiranagar,apartment,13910745,1403,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.977708,77.626468
+prop_886,3 BHK Apartment in Koramangala,apartment,12805626,1369,3,"Random Street, Koramangala",Koramangala,Bangalore,12.938491,77.630711
+prop_887,2 BHK Apartment in Marathahalli,apartment,6713850,939,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.967861,77.691138
+prop_888,4 BHK Apartment in Indiranagar,apartment,12920936,1432,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.98054,77.651885
+prop_889,3 BHK Apartment in Marathahalli,apartment,7261596,1278,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.9455,77.690391
+prop_890,4 BHK Apartment in Hebbal,apartment,12936378,1482,4,"Random Street, Hebbal",Hebbal,Bangalore,13.047333,77.595
+prop_891,3 BHK Apartment in Jayanagar,apartment,8887997,1061,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.942538,77.590728
+prop_892,4 BHK Apartment in Bellandur,apartment,9735417,1403,4,"Random Street, Bellandur",Bellandur,Bangalore,12.9427,77.684003
+prop_893,4 BHK Apartment in Whitefield,apartment,10801536,1472,4,"Random Street, Whitefield",Whitefield,Bangalore,12.963477,77.756198
+prop_894,4 BHK Apartment in Bellandur,apartment,12172575,1635,4,"Random Street, Bellandur",Bellandur,Bangalore,12.917004,77.692354
+prop_895,3 BHK Apartment in Whitefield,apartment,9591540,1148,3,"Random Street, Whitefield",Whitefield,Bangalore,12.962427,77.76263
+prop_896,2 BHK Apartment in Koramangala,apartment,8792110,985,2,"Random Street, Koramangala",Koramangala,Bangalore,12.9217,77.611291
+prop_897,3 BHK Apartment in Marathahalli,apartment,7119872,1024,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.971284,77.713635
+prop_898,3 BHK Apartment in Indiranagar,apartment,12872900,1181,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.980865,77.631755
+prop_899,4 BHK Apartment in Marathahalli,apartment,10619630,1477,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.964632,77.715936
+prop_900,2 BHK Apartment in Jayanagar,apartment,7503705,815,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.931486,77.572913
+prop_901,3 BHK Apartment in Koramangala,apartment,13280168,1318,3,"Random Street, Koramangala",Koramangala,Bangalore,12.937277,77.631026
+prop_902,4 BHK Apartment in Indiranagar,apartment,19640608,1523,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.964018,77.632485
+prop_903,3 BHK Apartment in Electronic City,apartment,6882980,1151,3,"Random Street, Electronic City",Electronic City,Bangalore,12.832515,77.668371
+prop_904,4 BHK Apartment in Bellandur,apartment,11029673,1423,4,"Random Street, Bellandur",Bellandur,Bangalore,12.923189,77.692015
+prop_905,3 BHK Apartment in HSR Layout,apartment,10220751,1179,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900857,77.640587
+prop_906,4 BHK Apartment in Whitefield,apartment,12291531,1659,4,"Random Street, Whitefield",Whitefield,Bangalore,12.959057,77.756733
+prop_907,2 BHK Apartment in Electronic City,apartment,5100230,818,2,"Random Street, Electronic City",Electronic City,Bangalore,12.850642,77.657512
+prop_908,3 BHK Apartment in Jayanagar,apartment,10488205,1157,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.921534,77.589345
+prop_909,2 BHK Apartment in Electronic City,apartment,5659867,953,2,"Random Street, Electronic City",Electronic City,Bangalore,12.832558,77.650311
+prop_910,3 BHK Apartment in Bellandur,apartment,9869588,1292,3,"Random Street, Bellandur",Bellandur,Bangalore,12.936377,77.692305
+prop_911,2 BHK Apartment in Jayanagar,apartment,8448704,968,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93261,77.587426
+prop_912,2 BHK Apartment in Jayanagar,apartment,6791372,826,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.918022,77.58341
+prop_913,3 BHK Apartment in Koramangala,apartment,11268203,1217,3,"Random Street, Koramangala",Koramangala,Bangalore,12.949501,77.631631
+prop_914,3 BHK Apartment in Whitefield,apartment,10089499,1393,3,"Random Street, Whitefield",Whitefield,Bangalore,12.971871,77.7643
+prop_915,3 BHK Apartment in Hebbal,apartment,11492010,1395,3,"Random Street, Hebbal",Hebbal,Bangalore,13.030905,77.593374
+prop_916,3 BHK Apartment in Jayanagar,apartment,11227248,1296,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.91936,77.593762
+prop_917,4 BHK Apartment in Indiranagar,apartment,16064996,1439,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.973205,77.633423
+prop_918,2 BHK Apartment in HSR Layout,apartment,5393603,809,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.897954,77.659292
+prop_919,4 BHK Apartment in Hebbal,apartment,13159188,1659,4,"Random Street, Hebbal",Hebbal,Bangalore,13.035888,77.596155
+prop_920,3 BHK Apartment in Koramangala,apartment,10536622,1058,3,"Random Street, Koramangala",Koramangala,Bangalore,12.935485,77.623577
+prop_921,3 BHK Apartment in Whitefield,apartment,10217724,1362,3,"Random Street, Whitefield",Whitefield,Bangalore,12.983855,77.751629
+prop_922,3 BHK Apartment in Whitefield,apartment,10118115,1161,3,"Random Street, Whitefield",Whitefield,Bangalore,12.967943,77.756108
+prop_923,3 BHK Apartment in Koramangala,apartment,10052250,1031,3,"Random Street, Koramangala",Koramangala,Bangalore,12.92207,77.614336
+prop_924,3 BHK Apartment in Jayanagar,apartment,11229900,1245,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.916382,77.589448
+prop_925,2 BHK Apartment in Electronic City,apartment,4347648,864,2,"Random Street, Electronic City",Electronic City,Bangalore,12.857612,77.648131
+prop_926,3 BHK Apartment in HSR Layout,apartment,10242320,1243,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.921406,77.653695
+prop_927,3 BHK Apartment in Electronic City,apartment,5745888,1136,3,"Random Street, Electronic City",Electronic City,Bangalore,12.850261,77.671679
+prop_928,2 BHK Apartment in HSR Layout,apartment,7848603,951,2,"Random Street, HSR Layout",HSR Layout,Bangalore,12.915607,77.657073
+prop_929,3 BHK Apartment in HSR Layout,apartment,7943324,1046,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.897502,77.650954
+prop_930,2 BHK Apartment in Electronic City,apartment,5208456,872,2,"Random Street, Electronic City",Electronic City,Bangalore,12.851433,77.664845
+prop_931,4 BHK Apartment in Whitefield,apartment,10291625,1405,4,"Random Street, Whitefield",Whitefield,Bangalore,12.980541,77.750682
+prop_932,3 BHK Apartment in Marathahalli,apartment,6852510,1341,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.944637,77.713668
+prop_933,4 BHK Apartment in Hebbal,apartment,13089802,1507,4,"Random Street, Hebbal",Hebbal,Bangalore,13.023811,77.598439
+prop_934,3 BHK Apartment in Jayanagar,apartment,12174130,1291,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.918791,77.590189
+prop_935,3 BHK Apartment in HSR Layout,apartment,10714830,1295,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.900918,77.642591
+prop_936,4 BHK Apartment in Hebbal,apartment,12602304,1496,4,"Random Street, Hebbal",Hebbal,Bangalore,13.021567,77.603807
+prop_937,3 BHK Apartment in Bellandur,apartment,8424930,1095,3,"Random Street, Bellandur",Bellandur,Bangalore,12.928015,77.66379
+prop_938,3 BHK Apartment in Koramangala,apartment,10344612,1084,3,"Random Street, Koramangala",Koramangala,Bangalore,12.926041,77.626392
+prop_939,2 BHK Apartment in Jayanagar,apartment,8058372,989,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.931633,77.572446
+prop_940,4 BHK Apartment in Whitefield,apartment,12817780,1691,4,"Random Street, Whitefield",Whitefield,Bangalore,12.957372,77.751003
+prop_941,4 BHK Apartment in Whitefield,apartment,12093330,1642,4,"Random Street, Whitefield",Whitefield,Bangalore,12.958,77.73757
+prop_942,3 BHK Apartment in Jayanagar,apartment,8910750,1090,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.936082,77.573049
+prop_943,4 BHK Apartment in Indiranagar,apartment,17180510,1570,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.986445,77.632365
+prop_944,2 BHK Apartment in Electronic City,apartment,5001327,851,2,"Random Street, Electronic City",Electronic City,Bangalore,12.839341,77.66663
+prop_945,4 BHK Apartment in Bellandur,apartment,11323728,1578,4,"Random Street, Bellandur",Bellandur,Bangalore,12.931672,77.681785
+prop_946,2 BHK Apartment in Sarjapur,apartment,6663990,955,2,"Random Street, Sarjapur",Sarjapur,Bangalore,12.921595,77.686116
+prop_947,3 BHK Apartment in Sarjapur,apartment,7763770,1379,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.935047,77.674599
+prop_948,4 BHK Apartment in Marathahalli,apartment,10718250,1550,4,"Random Street, Marathahalli",Marathahalli,Bangalore,12.969844,77.705865
+prop_949,2 BHK Apartment in Marathahalli,apartment,5613300,945,2,"Random Street, Marathahalli",Marathahalli,Bangalore,12.96221,77.692536
+prop_950,4 BHK Apartment in Whitefield,apartment,12035116,1436,4,"Random Street, Whitefield",Whitefield,Bangalore,12.972533,77.742539
+prop_951,2 BHK Apartment in Jayanagar,apartment,7370180,818,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93622,77.586
+prop_952,3 BHK Apartment in Hebbal,apartment,9421923,1271,3,"Random Street, Hebbal",Hebbal,Bangalore,13.024356,77.600775
+prop_953,3 BHK Apartment in Whitefield,apartment,9936620,1324,3,"Random Street, Whitefield",Whitefield,Bangalore,12.966811,77.748758
+prop_954,3 BHK Apartment in Hebbal,apartment,11547756,1331,3,"Random Street, Hebbal",Hebbal,Bangalore,13.043499,77.596159
+prop_955,4 BHK Apartment in Indiranagar,apartment,16605312,1563,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.959296,77.632216
+prop_956,3 BHK Apartment in HSR Layout,apartment,9457875,1201,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.9039,77.654712
+prop_957,3 BHK Apartment in Jayanagar,apartment,11122566,1183,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.915665,77.589135
+prop_958,4 BHK Apartment in Bellandur,apartment,10813786,1499,4,"Random Street, Bellandur",Bellandur,Bangalore,12.944622,77.666285
+prop_959,3 BHK Apartment in Hebbal,apartment,9892106,1162,3,"Random Street, Hebbal",Hebbal,Bangalore,13.038492,77.591069
+prop_960,2 BHK Apartment in Jayanagar,apartment,7457849,833,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.930213,77.582493
+prop_961,2 BHK Apartment in Jayanagar,apartment,8215200,978,2,"Random Street, Jayanagar",Jayanagar,Bangalore,12.933225,77.584418
+prop_962,3 BHK Apartment in Bellandur,apartment,8288320,1180,3,"Random Street, Bellandur",Bellandur,Bangalore,12.942946,77.665661
+prop_963,3 BHK Apartment in HSR Layout,apartment,10393866,1302,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.914067,77.654582
+prop_964,4 BHK Apartment in Jayanagar,apartment,14437650,1450,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.93072,77.56931
+prop_965,3 BHK Apartment in Hebbal,apartment,10840850,1381,3,"Random Street, Hebbal",Hebbal,Bangalore,13.044051,77.586325
+prop_966,4 BHK Apartment in Jayanagar,apartment,14214263,1429,4,"Random Street, Jayanagar",Jayanagar,Bangalore,12.927707,77.594157
+prop_967,2 BHK Apartment in Koramangala,apartment,5518656,603,2,"Random Street, Koramangala",Koramangala,Bangalore,12.939182,77.612822
+prop_968,3 BHK Apartment in Whitefield,apartment,8651734,1274,3,"Random Street, Whitefield",Whitefield,Bangalore,12.976942,77.757685
+prop_969,3 BHK Apartment in Whitefield,apartment,7844163,1137,3,"Random Street, Whitefield",Whitefield,Bangalore,12.974118,77.749356
+prop_970,3 BHK Apartment in Sarjapur,apartment,8041572,1188,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.931749,77.672803
+prop_971,3 BHK Apartment in Marathahalli,apartment,7524320,1184,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.950257,77.69874
+prop_972,3 BHK Apartment in Koramangala,apartment,10710512,1126,3,"Random Street, Koramangala",Koramangala,Bangalore,12.9489,77.612775
+prop_973,3 BHK Apartment in Indiranagar,apartment,12198844,1142,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.978933,77.630774
+prop_974,3 BHK Apartment in Electronic City,apartment,5680620,1045,3,"Random Street, Electronic City",Electronic City,Bangalore,12.854677,77.671826
+prop_975,2 BHK Apartment in Electronic City,apartment,4527171,891,2,"Random Street, Electronic City",Electronic City,Bangalore,12.853531,77.671082
+prop_976,3 BHK Apartment in Indiranagar,apartment,11762091,1161,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.973834,77.634859
+prop_977,3 BHK Apartment in Sarjapur,apartment,8476020,1302,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.934924,77.686766
+prop_978,3 BHK Apartment in Koramangala,apartment,9877952,1088,3,"Random Street, Koramangala",Koramangala,Bangalore,12.930388,77.623538
+prop_979,5 BHK Apartment in Hebbal,apartment,14016034,1957,5,"Random Street, Hebbal",Hebbal,Bangalore,13.041239,77.590193
+prop_980,3 BHK Apartment in Sarjapur,apartment,8872214,1339,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.913847,77.665681
+prop_981,3 BHK Apartment in Bellandur,apartment,7443550,1025,3,"Random Street, Bellandur",Bellandur,Bangalore,12.932275,77.687097
+prop_982,3 BHK Apartment in Marathahalli,apartment,8827533,1287,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.971529,77.689901
+prop_983,3 BHK Apartment in HSR Layout,apartment,11327712,1262,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.921016,77.642881
+prop_984,3 BHK Apartment in Jayanagar,apartment,10657377,1203,3,"Random Street, Jayanagar",Jayanagar,Bangalore,12.944561,77.592912
+prop_985,3 BHK Apartment in Sarjapur,apartment,6992825,1085,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.910041,77.671482
+prop_986,4 BHK Apartment in Whitefield,apartment,10786347,1479,4,"Random Street, Whitefield",Whitefield,Bangalore,12.967642,77.762681
+prop_987,4 BHK Apartment in Bellandur,apartment,12504910,1439,4,"Random Street, Bellandur",Bellandur,Bangalore,12.92254,77.675749
+prop_988,4 BHK Apartment in Whitefield,apartment,10193960,1486,4,"Random Street, Whitefield",Whitefield,Bangalore,12.955,77.754091
+prop_989,2 BHK Apartment in Electronic City,apartment,5925150,891,2,"Random Street, Electronic City",Electronic City,Bangalore,12.840004,77.670025
+prop_990,3 BHK Apartment in HSR Layout,apartment,11442321,1353,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.91462,77.635951
+prop_991,4 BHK Apartment in Sarjapur,apartment,10005600,1516,4,"Random Street, Sarjapur",Sarjapur,Bangalore,12.91251,77.687668
+prop_992,4 BHK Apartment in Bellandur,apartment,10954862,1553,4,"Random Street, Bellandur",Bellandur,Bangalore,12.924851,77.665384
+prop_993,3 BHK Apartment in Sarjapur,apartment,8190760,1160,3,"Random Street, Sarjapur",Sarjapur,Bangalore,12.929339,77.667194
+prop_994,3 BHK Apartment in Hebbal,apartment,10411832,1384,3,"Random Street, Hebbal",Hebbal,Bangalore,13.042091,77.606927
+prop_995,3 BHK Apartment in Bellandur,apartment,7762784,1322,3,"Random Street, Bellandur",Bellandur,Bangalore,12.937693,77.679147
+prop_996,3 BHK Apartment in HSR Layout,apartment,8977878,1134,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.922939,77.651452
+prop_997,3 BHK Apartment in Indiranagar,apartment,12100056,1262,3,"Random Street, Indiranagar",Indiranagar,Bangalore,12.968763,77.650395
+prop_998,4 BHK Apartment in Indiranagar,apartment,18029994,1614,4,"Random Street, Indiranagar",Indiranagar,Bangalore,12.975633,77.639508
+prop_999,3 BHK Apartment in Marathahalli,apartment,6665466,1121,3,"Random Street, Marathahalli",Marathahalli,Bangalore,12.945026,77.694524
+prop_1000,3 BHK Apartment in HSR Layout,apartment,8863595,1235,3,"Random Street, HSR Layout",HSR Layout,Bangalore,12.905065,77.640966

@@ -5,7 +5,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.models.ingestion import CollectorLog, JobRun, PropertyDuplicate, RawListing
 from app.models.property import Property
-from ingestion.geocoding import Geocoder
+from ingestion.core.geocoder import Geocoder
 from ingestion.schema import Listing, RawListingData
 
 
@@ -63,8 +63,8 @@ class IngestionService:
                 latitude=latitude,
                 longitude=longitude,
                 location=location,
-                image_urls=listing.image_urls,
-                amenities=listing.amenities,
+                image_urls=[{"url": img} for img in listing.image_urls],
+                amenities=[{"name": a, "available": True} for a in listing.amenities],
                 price_per_sqft=listing.price / listing.area_sqft,
             )
             self.session.add(property_obj)
@@ -101,7 +101,7 @@ class IngestionService:
         self, job: JobRun, collected: int, saved: int, failures: int
     ) -> None:
         job.status = "completed"
-        job.ended_at = datetime.now(timezone.utc)
+        job.ended_at = datetime.utcnow()
         job.listings_collected = collected
         job.listings_saved = saved
         job.failures = failures
@@ -110,7 +110,7 @@ class IngestionService:
 
     async def fail_job(self, job: JobRun, error: Exception, failures: int) -> None:
         job.status = "failed"
-        job.ended_at = datetime.now(timezone.utc)
+        job.ended_at = datetime.utcnow()
         job.failures = failures
         job.error = str(error)
         self.session.add(

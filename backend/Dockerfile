@@ -24,7 +24,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libxcomposite1 \
     libxdamage1 \
     libxrandr2 \
-    libgdk-pixbuf2.0-0 \
+    libgdk-pixbuf-2.0-0 \
     libdrm2 \
     libatspi2.0-0 \
     && rm -rf /var/lib/apt/lists/*
@@ -34,7 +34,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Playwright Python is installed via pip; install browsers separately but
 # don't use `--with-deps` (we already installed the system deps above).
-RUN playwright install chromium
+RUN NODE_TLS_REJECT_UNAUTHORIZED=0 playwright install chromium
 
 COPY . .
 

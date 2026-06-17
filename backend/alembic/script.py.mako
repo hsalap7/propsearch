@@ -1,23 +1,26 @@
-"""Provide context for formatting of logging records - %(message)s [%(name)s] %(levelname)-5.5s.
+"""${message}
+
+Revision ID: ${up_revision}
+Revises: ${down_revision | comma,n}
+Create Date: ${create_date}
+
 """
+from typing import Sequence, Union
 
-import logging
-from logging import LogRecord
+from alembic import op
+import sqlalchemy as sa
+${imports if imports else ""}
+
+# revision identifiers, used by Alembic.
+revision: str = ${repr(up_revision)}
+down_revision: Union[str, None] = ${repr(down_revision)}
+branch_labels: Union[str, Sequence[str], None] = ${repr(branch_labels)}
+depends_on: Union[str, Sequence[str], None] = ${repr(depends_on)}
 
 
-class ColoredFormatter(logging.Formatter):
-    """Custom formatter with color support."""
+def upgrade() -> None:
+    ${upgrades if upgrades else "pass"}
 
-    LOG_COLORS = {
-        "DEBUG": "\033[36m",  # cyan
-        "INFO": "\033[32m",  # green
-        "WARNING": "\033[33m",  # yellow
-        "ERROR": "\033[31m",  # red
-        "CRITICAL": "\033[35m",  # magenta
-        "RESET": "\033[0m",
-    }
 
-    def format(self, record: LogRecord) -> str:
-        log_color = self.LOG_COLORS.get(record.levelname, self.LOG_COLORS["RESET"])
-        record.levelname = f"{log_color}{record.levelname}{self.LOG_COLORS['RESET']}"
-        return super().format(record)
+def downgrade() -> None:
+    ${downgrades if downgrades else "pass"}

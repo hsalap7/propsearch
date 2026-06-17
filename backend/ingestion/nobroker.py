@@ -5,7 +5,9 @@ class NoBrokerCollector(PortalCollector):
     source = "nobroker"
     requests_per_minute = 20
     listing_url_pattern = r"nobroker\.in/property/"
-    search_urls: list[str] = []
+    search_urls: list[str] = [
+        "https://www.nobroker.in/property/sale/bangalore/Bangalore",
+    ]
 
 
 NoBrokerSource = NoBrokerCollector

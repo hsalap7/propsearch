@@ -9,6 +9,7 @@ class Settings(BaseSettings):
         "DATABASE_URL",
         "postgresql+asyncpg://propertydb:propertydb_password@localhost:5432/propsearch",
     )
+    secret_key: str = os.getenv("SECRET_KEY", "your-super-secret-32-byte-key-here-123!")
     fastapi_debug: bool = os.getenv("FASTAPI_DEBUG", "false").lower() == "true"
     environment: str = os.getenv("ENVIRONMENT", "development")
     google_geocoding_api_key: str | None = os.getenv("GOOGLE_GEOCODING_API_KEY")

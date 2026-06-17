@@ -31,6 +31,8 @@ class PropertyService:
         max_price: int = None,
         bedrooms: int = None,
         property_type: str = None,
+        source: str = None,
+        include_test_data: bool = True,
     ) -> PropertyListResponse:
         """List properties with filters."""
         properties, total = await self.repository.list(
@@ -41,6 +43,8 @@ class PropertyService:
             max_price=max_price,
             bedrooms=bedrooms,
             property_type=property_type,
+            source=source,
+            include_test_data=include_test_data,
         )
         return PropertyListResponse(
             total=total,
@@ -48,6 +52,10 @@ class PropertyService:
             limit=limit,
             offset=offset,
         )
+
+    async def get_locality_suggestions(self, prefix: str, limit: int = 10) -> list[str]:
+        """Get locality suggestions."""
+        return await self.repository.get_locality_suggestions(prefix, limit)
 
     async def find_nearby(
         self, latitude: float, longitude: float, radius_meters: int = 5000

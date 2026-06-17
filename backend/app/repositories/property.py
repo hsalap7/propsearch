@@ -72,10 +72,14 @@ class PropertyRepository:
         max_price: int = None,
         bedrooms: int = None,
         property_type: str = None,
+        source: str = None,
+        include_test_data: bool = True,
     ) -> tuple[list[Property], int]:
         """List properties with optional filters."""
         stmt = select(Property)
 
+        if not include_test_data:
+            stmt = stmt.where(Property.is_test_data == False)
         if locality:
             stmt = stmt.where(Property.locality.ilike(f"%{locality}%"))
         if min_price is not None:
@@ -86,8 +90,12 @@ class PropertyRepository:
             stmt = stmt.where(Property.bedrooms == bedrooms)
         if property_type:
             stmt = stmt.where(Property.property_type.ilike(f"%{property_type}%"))
+        if source:
+            stmt = stmt.where(Property.source == source)
 
         count_stmt = select(func.count()).select_from(Property)
+        if not include_test_data:
+            count_stmt = count_stmt.where(Property.is_test_data == False)
         if locality:
             count_stmt = count_stmt.where(Property.locality.ilike(f"%{locality}%"))
         if min_price is not None:
@@ -98,6 +106,8 @@ class PropertyRepository:
             count_stmt = count_stmt.where(Property.bedrooms == bedrooms)
         if property_type:
             count_stmt = count_stmt.where(Property.property_type.ilike(f"%{property_type}%"))
+        if source:
+            count_stmt = count_stmt.where(Property.source == source)
 
         total = await self.session.execute(count_stmt)
         total_count = total.scalar()
@@ -105,6 +115,17 @@ class PropertyRepository:
         stmt = stmt.limit(limit).offset(offset)
         result = await self.session.execute(stmt)
         return result.scalars().all(), total_count
+
+    async def get_locality_suggestions(self, prefix: str, limit: int = 10) -> list[str]:
+        """Get locality suggestions based on a prefix."""
+        stmt = (
+            select(Property.locality)
+            .where(Property.locality.ilike(f"{prefix}%"))
+            .distinct()
+            .limit(limit)
+        )
+        result = await self.session.execute(stmt)
+        return list(result.scalars().all())
 
     async def nearby(
         self, latitude: float, longitude: float, radius_meters: int = 5000

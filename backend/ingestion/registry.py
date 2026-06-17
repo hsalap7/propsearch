@@ -5,12 +5,14 @@ from ingestion.housing import HousingCollector
 from ingestion.magicbricks import MagicBricksCollector
 from ingestion.ninety_nine_acres import NinetyNineAcresCollector
 from ingestion.nobroker import NoBrokerCollector
+from ingestion.prestige import PrestigeCollector
 
 COLLECTORS = {
     "housing": HousingCollector,
     "magicbricks": MagicBricksCollector,
     "nobroker": NoBrokerCollector,
     "99acres": NinetyNineAcresCollector,
+    "prestige": PrestigeCollector,
 }
 
 

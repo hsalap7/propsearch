@@ -4,8 +4,11 @@ from app.models.ingestion import (
     JobRun,
     PropertyDuplicate,
     RawListing,
+    RawPayload,
 )
 from app.models.property import Property
+from app.models.session import SourceSession
+from app.models.events import PropertyEvent
 
 __all__ = [
     "CollectorLog",
@@ -13,5 +16,8 @@ __all__ = [
     "JobRun",
     "Property",
     "PropertyDuplicate",
+    "PropertyEvent",
     "RawListing",
+    "RawPayload",
+    "SourceSession",
 ]

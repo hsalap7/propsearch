@@ -52,7 +52,7 @@ class Listing(BaseModel):
     image_urls: list[str] = Field(default_factory=list)
     amenities: list[str] = Field(default_factory=list)
     listing_url: str
-    last_seen_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+    last_seen_at: datetime = Field(default_factory=lambda: datetime.utcnow())
 
     @field_validator("image_urls")
     @classmethod

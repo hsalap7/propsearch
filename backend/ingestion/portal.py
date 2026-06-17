@@ -46,19 +46,28 @@ class PortalCollector(BaseCollector):
     async def _page_content(self, url: str) -> tuple[str, str]:
         try:
             from playwright.async_api import async_playwright
+            from playwright_stealth import stealth_async
         except ImportError as exc:
             raise RuntimeError(
-                "Playwright is required; install dependencies and run "
+                "Playwright and stealth are required; install dependencies and run "
                 "`playwright install chromium`."
             ) from exc
 
         from app.core.config import settings
 
         async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=settings.collector_headless)
-            page = await browser.new_page()
-            await page.goto(url, wait_until="domcontentloaded", timeout=45_000)
-            await page.wait_for_timeout(1_000)
+            browser = await playwright.chromium.launch(
+                headless=settings.collector_headless,
+                args=["--disable-blink-features=AutomationControlled"],
+            )
+            context = await browser.new_context(
+                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            )
+            page = await context.new_page()
+            await stealth_async(page)
+            
+            await page.goto(url, wait_until="networkidle", timeout=60_000)
+            await page.wait_for_timeout(2_000)
             content, final_url = await page.content(), page.url
             await browser.close()
             return content, final_url
